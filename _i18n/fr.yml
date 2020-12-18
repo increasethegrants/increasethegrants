@@ -2,6 +2,9 @@ site:
   name: AugmenterLesDons
   canonical: https://increasethegrants.ca/fr
 
+nav:
+  lang_en: EN
+
 notFound:
   heading: Page non trouvé.
   content: La page demandée n'existe pas.

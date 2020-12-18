@@ -3,22 +3,9 @@
     <div class="container">
         <div class="main-nav-contents">
             <a href="{% t site.canonical %}" id="main-nav-home">
-                <img src="{{ site.baseurl_root }}/assets/img/{{ site.lang }}/logo_no_3.svg"
-                     alt="GIV">
-                <img src="{{ '/assets/img/3.svg' | prepend: site.baseurl_root }}"
-                     alt="3"
-                     id="logo-3">
-            </a>
-            <a id="nav-burger" href="/">
-                <i class="fas fa-bars burger-closed"></i>
-                <i class="fas fa-times burger-open"></i>
+                IncreaseTheGrants.ca
             </a>
             <ul>
-                <li><a href="{{ baseurl }}#about">{% t nav.about %}</a></li>
-                <li><a href="{{ baseurl }}#programs">{% t nav.programs %}</a></li>
-                <li><a href="{{ baseurl }}#giving">{% t nav.giving %}</a></li>
-                <li><a href="{{ baseurl }}#team">{% t nav.team %}</a></li>
-                <li><a href="{{ baseurl }}#contact">{% t nav.contact %}</a></li>
                 <li>
                     {% if site.lang == "en" %}
                         {% capture link_fr %}{{ site.translations['fr']['site']['canonical']}}{% endcapture %}
