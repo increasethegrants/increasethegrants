@@ -1,10 +1,16 @@
-## This is Urgent
+<div id="heading-urgent"></div>
+# This is Urgent
 
 COVID-19 has exposed the growing “charity gap” between what is required to help those in need and the funding available to support them. Donations from individual Canadians are down, while demands on social services continue to rise. 
 
 Governments have already taken on significant deficits and accumulated debt throughout the COVID-19 crisis. Raising taxes is a sub-optimal approach to meet this additional need, as it hurts the already struggling economy. 
 
 On the other hand, charitable foundations in Canada have doubled their financial assets over the past 6 years, from $40 Billion to over $80 Billion dollars. This represents an average of 12% growth per year, which is well above inflation and the growth of Canada’s GDP. Over the same period of time, the ratio of money granted from foundations to charities has decreased year-after-year. While wealth is accumulating in investment accounts, foundations are not voluntarily stepping up to put it to good use.
+
+<figure>
+<canvas id="assets-chart"></canvas>
+<figcaption>Foundation assets have grown substantially over the last decade, though charitable grants have not kept pace.</figcaption>
+</figure>
 
 Many Canadians do not realize that for every dollar donated into a foundation, the donor gets a charity tax credit. These tax credits come out of our government public purse, which could otherwise have been directed towards other public benefits. 
 
@@ -25,12 +31,11 @@ There is a real urgency to act now! Many Canadians are struggling as a result of
 
 Please see the links in the panel on the right to learn more about how you can contribute:
 
- Sign our online petition to add your voice to this initiative.
- 
-1. Send an email to your federal and/or provincial representatives demanding better requirements for the use of your tax dollars.
-2. Help increase awareness by sharing this initiative with your contacts over social media.
-3. Consider making a small donation. 100% of proceeds will go towards marketing costs to further promote this initiative.
-4. Continue reading to learn more about charitable foundations in Canada.
+1. Sign our online petition to add your voice to this initiative.
+2. Send an email to your federal and/or provincial representatives demanding better requirements for the use of your tax dollars.
+3. Help increase awareness by sharing this initiative with your contacts over social media.
+4. Consider making a small donation. 100% of proceeds will go towards marketing costs to further promote this initiative.
+5. Continue reading to learn more about charitable foundations in Canada.
 
 On behalf of those in need, thank you!
 
@@ -39,6 +44,7 @@ The hard part is doing it.”
 > 
 >— General Norman Schwarzkopf
 
+<div id="heading-about"></div>
 ## About this initiative
 
 Based on Ipsos research<sup><a href="https://sector3insights.com/products/canadianis-understanding-and-opinions-of-charitable-foundations" target="_blank">1</a></sup>, it is clear that Canadians have two fundamental perspectives about charitable foundations:
@@ -46,7 +52,7 @@ Based on Ipsos research<sup><a href="https://sector3insights.com/products/canadi
 1. Foundations play an important role and should exist, and 
 2. Foundations should be more transparent, be more accountable, and be required to grant more money, sooner.
  
-Several articles have been published in support of increasing the required “distribution quota” of charitable foundations<sup><a href="https://policyoptions.irpp.org/magazines/may-2020/unlocking-the-expanding-wealth-of-charitable-foundations/" target="_blank">2</a>, <a href="https://www.thecharityreport.com/features/dq-increase-adds-billions-to-the-charity-economy/" target="_blank">3</a></sup></sup>. Ottawa has heard the call to do so, but so far our federal government has been silent on this topic. Because this is an issue of taxpayer dollars and how they are being used, it is now the responsibility of engaged voters and taxpayers to make their expectations known to the government.
+Several articles have been published in support of increasing the required “distribution quota” of charitable foundations<sup><a href="https://policyoptions.irpp.org/magazines/may-2020/unlocking-the-expanding-wealth-of-charitable-foundations/" target="_blank">2</a>, <a href="https://www.thecharityreport.com/features/dq-increase-adds-billions-to-the-charity-economy/" target="_blank">3</a></sup>. Ottawa has heard the call to do so, but so far our federal government has been silent on this topic. Because this is an issue of taxpayer dollars and how they are being used, it is now the responsibility of engaged voters and taxpayers to make their expectations known to the government.
 
 One might think that struggling charities should be leading this initiative, but they are in a precarious situation. The vast majority of charities receive funding from one or more foundations. In turn, they dare not bite the hand that feeds them, even if they agree with the initiative or desperately need the additional funding. As such, we need informed citizens to step up to demand more from our government and foundations on behalf of charities.
 
@@ -56,6 +62,7 @@ This initiative to “increase the grants” is simply a pursuit to do what is r
 
 No profits will be taken from this enterprise. Some contractors will be paid, but everyone else is doing this voluntarily. All funds collected from interested and like-minded people will be used to promote and expand the reach of this campaign across Canada. 
 
+<div id="heading-gap"></div>
 ## The Growing Charity Gap
  
 For several years, Canada has been facing a growing ‘charity gap’. This is a financial gap between available funding and the growing costs of services that serve to maintain civility and equity in our communities. These services support the elderly, the homeless, abuse victims, animal welfare, environmental health, medical research, and numerous other critical issues.
@@ -70,6 +77,7 @@ In a recent Ipsos Canada poll (April 23-26, 2020)*;
 * 48% of Canadian adults were aware of this widening charity gap. 
 * When made aware of this fact, 71% of Canadians felt that this widening charity gap was not acceptable. 
 
+<div id="heading-nonprofit"></div>
 ## Types of Non-Profit Organizations
 
 The non-profit sector in Canada is large; it employs millions, and serves millions more. These organizations define our communities and the type of society we enjoy. They are key to our quality of life. Despite the simple idea of doing/being good, the sector is quite complex and confusing. Here is a quick summary:
@@ -94,6 +102,7 @@ The non-profit sector in Canada is large; it employs millions, and serves millio
 * (2) Other non-profit organizations/ associations 
 These tend to be community centres, clubs, union associations, etc. These organizations cannot offer charity tax receipts. They tend to charge fees for memberships, and/or sell products and services to support their operating costs.
 
+<div id="heading-foundations"></div>
 ## Charities and foundations exist as an extension of government
  
 Though our governments are ultimately responsible for the well-being of the nation, parts of this responsibility have been outsourced to charities and foundations which provide social services on the government’s behalf. To help ensure the success of charities and foundations, governments offer charity tax credits to donors to incentivize charitable giving to these organizations. Furthermore, policies allow investments to grow in these organizations exempt from income and capital gain taxes. 
@@ -106,6 +115,7 @@ The use of the non-profit sector as a complement to government services appears 
  
 However, we need greater accountability. Since taxpayer money is being used to empower foundations, we need better requirements, transparency and accountability from them. We need our governments to exercise stronger controls to ensure that these foundations are meeting the needs and wishes of the electorate, and in a timely manner.
  
+ <div id="heading-dq"></div>
 ## About the Disbursement Quota
  
 The Disbursement Quota (DQ) is defined as the amount that foundations must disburse annually from their assets to either qualified registered Canadian charities, or to their own charitable programs. The rest is usually invested in financial markets to grow the endowment over time.
@@ -124,6 +134,7 @@ Many of the arguments for further reducing the DQ seem to have been based on the
 
 In summary, the role of foundations is to distribute funds in the interest of public good, not to outperform the financial markets nor to hoard money in perpetuity on the sidelines. The DQ was designed to prevent the accumulation of wealth, and to respect the will of taxpayers. Tying the DQ to the average returns of financial markets is a red herring. It is the agenda of foundation boards to have this comparison, which does not reflect the purpose of the DQ policy nor the interest of taxpayers. 
 
+<div id="heading-10pct"></div>
 ## Impacts of a 10% Disbursement Quota
 
 Raising the minimum disbursement requirement in Canada to 10% would offer a balance between accomplishing greater good, sooner, while also allowing foundations to have enough longevity to serve their important role. A 10% DQ would:
@@ -139,5 +150,6 @@ Concerns for future philanthropy should not be a reason to delay a greater good 
 
 Furthermore, as Baby Boomers continue to age, there is a significant amount of money likely to be donated over the next 10 to 30 years. There is every reason to believe that new charitable dollars will be available to continue supporting the charities of future generations. And if there are no future philanthropists, then this is the shortcoming of future generations, not something that should disadvantage current taxpayers. 
 
+<div id="heading-press"></div>
 ## Press & Articles
 TBD

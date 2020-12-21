@@ -1,4 +1,54 @@
 
+#main-body
+  .row
+    -webkit-align-items: stretch
+    align-items: stretch
+
+#main-content
+  padding-right: 1.5em
+  p, li
+    text-align: justify
+
+#action-sidebar
+  background-color: $color-light-orange
+  .inner-sidebar
+    max-height: 100vh
+    overflow: auto
+    position: -webkit-sticky
+    position: sticky
+    top: 0
+    padding: 1em 1em
+  h2
+    text-align: center
+    margin-bottom: 0.25em
+  h3
+    text-align: center
+    margin-top: 0.5em
+  p
+    text-align: center
+    margin: 0 0 0.5em
+    font-style: italic
+  .sidebar-buttons
+    margin-bottom: 1.5em
+
+.quicklinks
+  list-style: none
+  margin: 0
+  padding: 0 0.5em 0 0.5em
+  a
+    color: $dark-gray
+    text-decoration: none
+    &:hover
+      color: $color-dark-blue
+
+.chartContainer
+  height: 300px
+  position: relative
+  div
+    width: auto
+
+.canvasjs-chart-credit
+  display: none
 
 
 #main-footer

@@ -5,6 +5,26 @@ site:
 nav:
   lang_fr: FR
 
+sidebar:
+  heading: Get Involved!
+  subheading: Become a "Shift-Disturber"
+  buttons:
+    petition: Sign the Petition
+    representatives: Contact Your Representatives
+    social: Engage Others
+    donation: Make a Donation
+  learn-more:
+    heading: Learn More
+    urgent: This is Urgent
+    about: About this Initiative
+    gap: The Charity Gap
+    nonprofit: Types of Non-Profits
+    foundations: Foundations & The Government
+    dq: About the Disbursement Quota
+    10pct: Impacts of a 10% DQ
+    press: Press & Articles
+
+
 hero:
   struggling: Canadians are struggling.<br>Charities are struggling to help them.<br>... While Charitable Foundations are sitting  on $80+ billion.
   policy: A simple government policy change requiring foundations to contribute 10% of their assets each year to the charities that they support would release an extra <em>$4 billion</em> per year for struggling Canadian charities and the people that they serve.
