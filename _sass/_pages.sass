@@ -50,6 +50,108 @@
 .canvasjs-chart-credit
   display: none
 
+.modal-container
+  display: flex
+  justify-content: center
+  align-items: center
+
+.modal-content
+  position: relative
+  display: flex
+  max-width: $medium
+  flex-direction: column
+  border-radius: 0.25rem
+  background: #fff
+  padding: 2em
+  margin: 0 1em
+  form
+    background-color: transparent
+    padding: 0
+
+.modal__close
+  position: absolute
+  top: 1em
+  right: 1em
+  border: none
+  background-color: transparent
+  color: $light-gray
+  font-size: 1.25em
+  &:hover
+    color: $gray
+
+.modal--header
+  text-align: center
+
+.validation-error
+  color: $danger-color
+
+#representatives
+  display: flex
+  justify-content: space-between
+  margin-bottom: 2em
+.representative
+  display: flex
+  max-width: 50%
+  flex-direction: column
+  justify-content: space-between
+  padding: 1em
+  margin-right: 1.5em
+  background-color: #f6f6f6
+  text-align: center
+  &:last-child
+    margin-right: 0
+.rep--content
+  display: flex
+  flex-direction: column
+  align-items: center
+  h3
+    margin: 0.25em 0 0
+  p
+    margin: 0
+.rep--form-wrap
+  display: flex
+  input
+    flex-basis: max-content
+    border-radius: $border-radius 0 0 $border-radius
+    box-shadow: $box-shadow
+    border: 1px $light-gray solid
+    margin: 0
+    padding-left: 1em
+  button
+    border-radius: 0 $border-radius $border-radius 0
+    box-shadow: $box-shadow
+    margin: 0
+
+.rep--image-wrap
+  width: 150px
+  height: 150px
+  border-radius: 50%
+  overflow: hidden
+  background-color: $light-gray
+  position: relative
+  &:before
+    content: "\F508"
+    font-family: "Font Awesome 5 Free"
+    font-weight: 900
+    position: absolute
+    top: 0
+    left: 0
+    right: 0
+    bottom: 0
+    font-size: 90pt
+    color: $gray
+  &.has-image:before
+    content: ""
+.rep--image
+  width: 100%
+  height: 100%
+  background-position: center center
+  background-size: cover
+
+
+.rep--jurisdiction
+  margin: 0.5em 0
+
 
 #main-footer
   background-color: $color-light-orange

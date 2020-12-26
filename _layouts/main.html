@@ -10,7 +10,8 @@
     <link rel="canonical" href="{% t site.canonical %}">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500&display=swap"
+          rel="stylesheet">
     <link rel="stylesheet"
           href="{{ '/assets/css/fontawesome-all.min.css' | prepend: site.baseurl_root }}?v={{ site.time | date: '%s' }}">
     <link rel="stylesheet"
@@ -21,13 +22,16 @@
     {% include favicon.html %}
 </head>
 <body>
-{% include nav.html isHome=page.isHome %}
-{{ content }}
-{% include footer.html %}
+<div id="app">
+    {% include nav.html isHome=page.isHome %}
+
+    {{ content }}
+
+    {% include footer.html %}
+</div>
 <script src="https://code.jquery.com/jquery-3.5.0.min.js"
         integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
         crossorigin="anonymous"></script>
-<script src="{{ 'assets/js/chart.min.js' | prepend: site.baseurl_root }}?v={{ site.time | date: '%s' }}"></script>
-<script src="{{ 'assets/js/site.js' | prepend: site.baseurl_root }}?v={{ site.time | date: '%s' }}"></script>
+<script src="{{ 'assets/js/app.js' | prepend: site.baseurl_root }}?v={{ site.time | date: '%s' }}"></script>
 </body>
 </html>

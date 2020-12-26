@@ -1,10 +1,6 @@
-(function (document, window) {
-    "use strict";
-
-    // Foundation Assets Chart
-    // ========================
-
-    var dataSets = [
+import Chart from "./libs/chart.min.js";
+export default function () {
+    const dataSets = [
         [34.1, 36.5, 36.2, 42.1, 45.4, 55.1, 61.4, 69.7, 73.0, 84.4],
         [3.6, 3.5, 3.7, 4.3, 4.4, 4.8, 5.9, 5.6, 5.7, 6.7],
         [
@@ -20,8 +16,8 @@
             Math.round(6.7 / 84.4 * 100 * 100) / 100
         ]
     ];
-    var assetsChartCtx = document.getElementById('assets-chart');
-    var assetsChart = new Chart(assetsChartCtx, {
+    let assetsChartCtx = document.getElementById('assets-chart');
+    let assetsChart = new Chart(assetsChartCtx, {
         type: 'line',
         data: {
             labels: ["2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017"],
@@ -64,7 +60,7 @@
                 intersect: true,
                 callbacks: {
                     label(dataSetItem, config) {
-                        var label = config.datasets[dataSetItem.datasetIndex].label;
+                        let label = config.datasets[dataSetItem.datasetIndex].label;
                         if (dataSetItem.datasetIndex === 2) {
                             return label + ': ' + dataSetItem.value + '%';
                         }
@@ -86,7 +82,7 @@
                         ticks: {
                             beginAtZero: true,
                             min: 0,
-                            max: 90,
+                            max: 100,
                             callback: function (value) {
                                 return '$' + value;
                             }
@@ -100,7 +96,7 @@
                         ticks: {
                             stepSize: 1,
                             min: 7,
-                            max: 11,
+                            max: 12,
                             callback: function (value) {
                                 return value + '%';
                             }
@@ -113,5 +109,4 @@
             }
         }
     });
-
-})(document, window);
+}
