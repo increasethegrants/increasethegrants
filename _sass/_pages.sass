@@ -64,9 +64,12 @@
   background: #fff
   padding: 2em
   margin: 0 1em
-  form
-    background-color: transparent
-    padding: 0
+  &.modal--small
+    max-width: $small
+  &.modal--wide
+    max-width: $medium-wide
+  &.modal--large
+    max-width: $large
 
 .modal__close
   position: absolute
@@ -78,6 +81,11 @@
   font-size: 1.25em
   &:hover
     color: $gray
+
+.petition-embed
+  width: 100%
+  height: 70vh
+  border: 1px solid #ccc
 
 .modal--header
   text-align: center
@@ -107,19 +115,6 @@
   h3
     margin: 0.25em 0 0
   p
-    margin: 0
-.rep--form-wrap
-  display: flex
-  input
-    flex-basis: max-content
-    border-radius: $border-radius 0 0 $border-radius
-    box-shadow: $box-shadow
-    border: 1px $light-gray solid
-    margin: 0
-    padding-left: 1em
-  button
-    border-radius: 0 $border-radius $border-radius 0
-    box-shadow: $box-shadow
     margin: 0
 
 .rep--image-wrap
@@ -151,6 +146,23 @@
 
 .rep--jurisdiction
   margin: 0.5em 0
+
+.social-buttons
+  display: flex
+  justify-content: space-around
+  font-size: 1.25rem
+  .btn
+    padding: 0.5em 1em
+  .fab
+    margin-right: 0.5em
+    font-size: 1.5rem
+    vertical-align: middle
+  span
+    vertical-align: middle
+  .btn--facebook .fab
+    color: lighten($facebook-color, 20%)
+  .btn--twitter .fab
+    color: darken($twitter-color, 20%)
 
 
 #main-footer

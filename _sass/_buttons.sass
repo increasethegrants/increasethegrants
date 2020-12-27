@@ -28,7 +28,7 @@
 
 
   /* button colors */
-  $buttonColors: (primary: $color-orange, light-orange: $color-light-orange, yellow: $color-yellow, success: $success-color, warning: $warning-color, danger: $danger-color, info: $info-color, blue: $color-blue, default: $lighter-gray)
+  $buttonColors: (primary: $color-orange, light-orange: $color-light-orange, yellow: $color-yellow, success: $success-color, warning: $warning-color, danger: $danger-color, info: $info-color, blue: $color-blue, default: $lighter-gray, facebook: $facebook-color, twitter: $twitter-color)
   @each $buttonColor, $color in $buttonColors
     &--#{$buttonColor}, &--#{$buttonColor}
       @include yiq-contrasted($color)

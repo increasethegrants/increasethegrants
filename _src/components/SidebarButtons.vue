@@ -5,7 +5,7 @@
       {{ $t('sidebar.buttons.petition') }}
     </button>
     <button class="btn btn--block btn--blue"
-            @click="$vfm.show('representativesModal')">
+            @click="$vfm.show('representatives-modal')">
       {{ $t('sidebar.buttons.representatives') }}
     </button>
     <button class="btn btn--block btn--blue"
