@@ -40,11 +40,23 @@ export const ENGLISH_TRANSLATIONS = {
     },
     social: {
         modalHeader: 'Engage Others',
-        subtitle: 'increase awareness of this common-sense initiative by sharing it with your contacts on social media.',
+        subtitle: 'Help increase awareness of this common-sense initiative by sharing it with your contacts on social media.',
         shareUrl: 'https://increasethegrants.ca',
         twitter: {
             text: 'We need to expect more from charitable foundations!',
             hashtag: 'increasethegrants'
         }
+    },
+    donation: {
+        modalHeader: 'Make a Donation',
+        content: 'Help us spread the word with a donation. 100% of donation proceeds will go towards marketing this initiative. Donations are collected by GIV3 through CanadaHelps.org.',
+        instructions: [
+            'Click the link below to continue to CanadaHelps.org.',
+            'Enter an amount that you wish to donate now or as a recurring payment',
+            'Select the <strong>"IncreaseTheGrants"</strong> fund from the dropdown.',
+            'Click "continue with donation to proceed to payment options',
+        ],
+        buttonText: 'Proceed to CanadaHelps.org',
+        buttonUrl: 'https://www.canadahelps.org/en/charities/giv3/'
     }
 }

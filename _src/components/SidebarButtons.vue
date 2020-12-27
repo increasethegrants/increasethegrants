@@ -13,7 +13,7 @@
       {{ $t('sidebar.buttons.social') }}
     </button>
     <button class="btn btn--block btn--blue"
-            @click="$vfm.show('donations-modal')">
+            @click="$vfm.show('donation-modal')">
       {{ $t('sidebar.buttons.donation') }}
     </button>
   </div>

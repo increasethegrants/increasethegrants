@@ -8,12 +8,14 @@ import RepresentativesModal from "./components/RepresentativesModal";
 import PetitionModal from "./components/PetitionModal";
 import SidebarButtons from "./components/SidebarButtons";
 import SocialModal from "./components/SocialModal";
+import DonationModal from "./components/DonationModal";
 
 Vue.use(VueI18n);
 Vue.use(VueFinalModal());
 Vue.component('representativesModal', RepresentativesModal);
 Vue.component('petitionModal', PetitionModal);
 Vue.component('socialModal', SocialModal);
+Vue.component('donationModal', DonationModal);
 Vue.component('sidebarButtons', SidebarButtons);
 
 const i18n = new VueI18n({
@@ -27,9 +29,5 @@ const i18n = new VueI18n({
 const app = new Vue({
     i18n,
 }).$mount('#app');
-
-
-
-console.log(app.$vfm.modals);
 
 drawChart();
