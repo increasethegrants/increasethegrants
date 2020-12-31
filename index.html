@@ -3,16 +3,12 @@ layout: main
 isHome: true
 ---
 <div id="site-wrap">
-    <div class="container">
+    {% include hero.html %}
 
-        <header id="hero">
-
-        </header>
-    </div>
-    <div id="main-body" class="container relative">
+    <main id="main-body" class="container relative">
         <div class="row">
             <article id="main-content" class="col-md-8">
-                {% tf content.md %}
+                {% include sitecontent.html %}
             </article>
             <aside id="action-sidebar" class="col-md-4">
                 <div class="inner-sidebar">
@@ -20,5 +16,5 @@ isHome: true
                 </div>
             </aside>
         </div>
-    </div>
+    </main>
 </div>

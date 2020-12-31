@@ -4,10 +4,10 @@
 <html lang="{{ site.lang }}">
 <head>
     <meta charset="UTF-8">
-    <title>{% t site.name %}</title>
-    <meta name="description" content="{{ seo_description }}">
+    <title>{% t website.name %}</title>
+    <meta name="description" content="{{ website.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <link rel="canonical" href="{% t site.canonical %}">
+    <link rel="canonical" href="{% t website.canonical %}">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500&display=swap"
@@ -23,8 +23,6 @@
 </head>
 <body>
 <div id="app">
-    {% include nav.html isHome=page.isHome %}
-
     {{ content }}
 
     {% include footer.html %}

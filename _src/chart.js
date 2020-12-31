@@ -29,7 +29,8 @@ export default function () {
                     yAxisID: 'y-axis-dollars',
                     pointRadius: 4,
                     pointHoverRadius: 6,
-                    data: dataSets[0]
+                    data: dataSets[0],
+                    fill: '+1'
                 },
                 {
                     label: "Total Grants From Foundations",

@@ -1,9 +1,16 @@
-site:
-  name: IncreaseTheGrants.ca
+website:
+  name: Increase The Grants
+  subtitle: A movement to demand greater accountability from Canadian charitable foundations
   canonical: https://increasethegrants.ca
 
 nav:
   lang_fr: FR
+
+hero:
+  struggling: Canadians are struggling.<br>Charities are struggling to help them.<br>Meanwhile, charitable foundations are sitting on $80+ billion.
+  policy: We need the Canadian Government to require greater distribution quotas from charitable foundations.
+  grants: If foundations contributed 10% of their assets each year, that would mean an extra <em>$4 billion</em> per year for Canadian charities and the people that they serve.
+  you: You can help make this happen!<br>We need your voice (not your money).
 
 sidebar:
   heading: Get Involved!
@@ -20,10 +27,7 @@ sidebar:
     press: Press & Articles
 
 
-hero:
-  struggling: Canadians are struggling.<br>Charities are struggling to help them.<br>... While Charitable Foundations are sitting  on $80+ billion.
-  policy: A simple government policy change requiring foundations to contribute 10% of their assets each year to the charities that they support would release an extra <em>$4 billion</em> per year for struggling Canadian charities and the people that they serve.
-  you: You can help make this happen!<br>We need your voice (not your money).
+
 
 notFound:
   heading: Page not found.

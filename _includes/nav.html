@@ -7,33 +7,9 @@
             </a>
             <ul>
                 <li>
-                    {% if site.lang == "en" %}
-                        {% capture link_fr %}{{ site.translations['fr']['site']['canonical']}}{% endcapture %}
-                        <a href="{{ link_fr }}">{% t nav.lang_fr %}</a>
-                        {% elsif site.lang == "fr" %}
-                        {% capture link_en %}{{ site.translations['en']['site']['canonical']}}{% endcapture %}
-                        <a href="{{ link_en }}">{% t nav.lang_en %}</a>
-                    {% endif %}
+
                 </li>
             </ul>
         </div>
     </div>
 </nav>
-<div id="main-nav-trunk">
-    <ul>
-        <li><a href="{{ baseurl }}#about">{% t nav.about %}</a></li>
-        <li><a href="{{ baseurl }}#programs">{% t nav.programs %}</a></li>
-        <li><a href="{{ baseurl }}#giving">{% t nav.giving %}</a></li>
-        <li><a href="{{ baseurl }}#team">{% t nav.team %}</a></li>
-        <li><a href="{{ baseurl }}#contact">{% t nav.contact %}</a></li>
-        <li>
-            {% if site.lang == "en" %}
-                {% capture link_fr %}{{ site.translations['fr']['site']['canonical']}}{% endcapture %}
-                <a href="{{ link_fr }}">{% t nav.lang_fr %}</a>
-                {% elsif site.lang == "fr" %}
-                {% capture link_en %}{{ site.translations['en']['site']['canonical']}}{% endcapture %}
-                <a href="{{ link_en }}">{% t nav.lang_en %}</a>
-            {% endif %}
-        </li>
-    </ul>
-</div>

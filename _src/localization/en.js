@@ -1,4 +1,5 @@
 export const ENGLISH_TRANSLATIONS = {
+
     sidebar: {
         buttons: {
             petition: 'Sign the Petition',
@@ -54,7 +55,7 @@ export const ENGLISH_TRANSLATIONS = {
             'Click the link below to continue to CanadaHelps.org.',
             'Enter an amount that you wish to donate now or as a recurring payment',
             'Select the <strong>"IncreaseTheGrants"</strong> fund from the dropdown.',
-            'Click "continue with donation to proceed to payment options',
+            'Click "continue with donation" to proceed to payment options',
         ],
         buttonText: 'Proceed to CanadaHelps.org',
         buttonUrl: 'https://www.canadahelps.org/en/charities/giv3/'

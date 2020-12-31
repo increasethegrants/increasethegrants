@@ -1,0 +1,24 @@
+
+<header id="hero">
+    {% if site.lang == "en" %}
+        {% capture link_fr %}{{ site.translations['fr']['site']['canonical'] }}{% endcapture %}
+        <a href="{{ link_fr }}" class="lang-picker">{% t nav.lang_fr %}</a>
+        {% elsif site.lang == "fr" %}
+        {% capture link_en %}{{ site.translations['en']['site']['canonical'] }}{% endcapture %}
+        <a href="{{ link_en }}" class="lang-picker">{% t nav.lang_en %}</a>
+    {% endif %}
+    <div id="hero--title">
+        <h1 id="site-title">{% t website.name %}</h1>
+        <h2 id="site-subtitle">{% t website.subtitle %}</h2>
+    </div>
+    <div id="hero--content">
+        <div id="hero--content-inner">
+            <p>{% t hero.struggling %}</p>
+            <p>{% t hero.policy %}</p>
+            <p>{% t hero.grants %}</p>
+        </div>
+    </div>
+</header>
+<div id="hero--banner">
+    <a href="#heading-urgent">{% t hero.you %}</a>
+</div>
