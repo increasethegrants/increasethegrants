@@ -1,5 +1,5 @@
 <template>
-  <div class="sidebar-buttons">
+  <div class="cta-buttons container">
     <button class="btn btn--block btn--blue"
             @click="$vfm.show('petition-modal')">
       {{ $t('sidebar.buttons.petition') }}
