@@ -8,11 +8,27 @@
 
 #main-content
   padding-right: 1.5em
-  padding-top: 1em
   p, li
     text-align: justify
-  .content-section:nth-child(2n)
-    //background-color: $color-beige
+  .content-section
+    padding: 2em 0
+    position: relative
+    &:nth-child(2n)
+      background-color: $color-beige
+      &::before, &::after
+        content: ""
+        position: absolute
+        background-color: $color-beige
+        display: block
+        z-index: -1
+        top: 0
+        bottom: 0
+      &::before
+        right: 100%
+        width: calc(50vw - #{$x-large / 2} + 2em)
+      &::after
+        left: 100%
+        width: calc(50vw + #{$x-large * strip-unit(span(4 of 12) + gutter(1 of 12)) / 100 - $x-large / 2} + 2em)
 
 
 .lang-picker
@@ -22,17 +38,18 @@
   display: inline-block
   border-radius: 50%
   padding: 0.5em
-  background-color: lighten($color-blue, 50%)
   text-decoration: none
   line-height: 1.1em
   text-align: center
-  color: $color-blue
   font-size: 0.8em
   z-index: 999
   -webkit-transition: $global-transition
   transition: $global-transition
+  background-color: lighten($color-orange, 30%)
+  color: $color-orange
   &:hover
-    background-color: lighten($color-orange, 30%)
+    background-color: lighten($color-blue, 50%)
+    color: $color-blue
 
 #hero
   z-index: 10
@@ -46,12 +63,12 @@
   justify-content: center
   align-items: center
   margin: 0
-  background-image: url('/assets/img/leaf-blue.jpg')
+  background-image: url('/assets/img/leaf-blur.jpg')
   background-size: cover
   background-position: center center
   //box-shadow: inset 0 0 60px 30px $color-blue
-  background-blend-mode:
-  background-color: $color-blue
+  //background-blend-mode:
+  //background-color: $color-blue
 
 #hero--background-image
   position: absolute
@@ -67,22 +84,25 @@
   text-transform: uppercase
   margin: 0
   color: #fff
-  background-color: $color-orange
+  background-color: $color-blue
+  //background-color: #333
   text-align: center
   padding: 0.25rem 0.5rem 0.5rem
   line-height: 0.9
 #site-subtitle
-  font-size: 1.1em
+  font-size: 1em
   text-align: center
   margin: 0
   max-width: 458px
   //text-shadow: 1px 1px $color-blue
-  color: #fff
-  background-color: $color-light-orange
+  //color: #fff
+  //background-color: $color-light-orange
+  color: $darker-gray
+  background-color: #fff
   padding-bottom: 0.25rem
 
 #hero--content
-  background-color: $color-blue
+  background-color: $color-orange
   color: #fff
   padding: 1em
   font-size: 0.9em
@@ -97,18 +117,22 @@
   height: 100%
 
 #hero--banner
-  background-color: $color-beige
+  background-color: $color-yellow
   text-align: center
   padding: 1em 1em
+  text-transform: uppercase
   //border-bottom: 2px solid $color-orange
   //box-shadow: 0 2px 5px #333
   font-weight: bold
   z-index: 10
   position: relative
   a
-    color: $dark-gray
+    //color: $dark-gray
+    color: $darker-gray
     text-decoration: none
     font-family: $header-font-family
+    &:hover
+      color: $color-blue
 
 #action-sidebar
   background-color: $color-light-orange
@@ -123,8 +147,10 @@
     padding: 1em 1em
   h2
     text-align: center
-    margin-bottom: 0.25em
+    margin-bottom: 0.75em
+    margin-top: 0
   h3
+    color: $darker-gray
     text-align: center
     margin-top: 0.5em
   p
@@ -132,7 +158,7 @@
     margin: 0 0 0.5em
     font-style: italic
   .sidebar-buttons
-    margin-bottom: 1.5em
+    margin-bottom: 1em
   //&:after
   //  content: ""
   //  position: absolute
@@ -146,11 +172,11 @@
   list-style: none
   margin: 0
   padding: 0 0.5em 0 0.5em
-  a
-    color: $dark-gray
-    text-decoration: none
-    &:hover
-      color: $color-dark-blue
+  //a
+  //  color: $darker-gray
+  //  text-decoration: none
+  //  &:hover
+  //    color: $color-blue
 
 .chartContainer
   height: 300px

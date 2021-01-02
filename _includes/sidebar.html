@@ -1,14 +1,3 @@
 <h2>{% t sidebar.heading %}</h2>
-<p>{% t sidebar.subheading %}</p>
 <sidebar-buttons></sidebar-buttons>
-<h3>{% t sidebar.learn-more.heading %}</h3>
-<ul class="quicklinks">
-    <li><a href="#heading-urgent">{% t sidebar.learn-more.urgent %}</a></li>
-    <li><a href="#heading-about">{% t sidebar.learn-more.about %}</a></li>
-    <li><a href="#heading-gap">{% t sidebar.learn-more.gap %}</a></li>
-    <li><a href="#heading-nonprofit">{% t sidebar.learn-more.nonprofit %}</a></li>
-    <li><a href="#heading-foundations">{% t sidebar.learn-more.foundations %}</a></li>
-    <li><a href="#heading-dq">{% t sidebar.learn-more.dq %}</a></li>
-    <li><a href="#heading-10pct">{% t sidebar.learn-more.10pct %}</a></li>
-    <li><a href="#heading-press">{% t sidebar.learn-more.press %}</a></li>
-</ul>
+{% include sidebar-quicklinks.html %}
