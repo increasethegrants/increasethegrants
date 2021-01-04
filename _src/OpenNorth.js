@@ -59,7 +59,9 @@ let isProvincialRep = function(rep, province) {
 export default {
     findRepsByPostal: async function(postal) {
         postal = postal.replaceAll(/[^A-Z\d]/g, '');
-        let results = await fetch(`https://represent.opennorth.ca/postcodes/${postal}`);
+        let url = encodeURI(`https://represent.opennorth.ca/postcodes/${postal}`)
+        // use cors-anywhere proxy for cross-origin request from frontend-only github pages
+        let results = await fetch(`http://cors-anywhere.herokuapp.com/${url}`);
         if (results.status !== 200) {
             return [];
         }

@@ -26,11 +26,11 @@ export const ENGLISH_TRANSLATIONS = {
             }
         },
         emailTitle: 'Increase the Grants',
-        emailBody: 'Dear {ministerName} \n\n' +
-            ' I am a taxpayer and a constituent in your riding, and I am asking you to support an initiative that is very important to me.\n\n' +
+        emailBody: 'Dear {ministerName},\n\n' +
+            'I am a taxpayer and a constituent in your riding, and I am asking you to support an initiative that is very important to me.\n\n' +
             'Perhaps you have heard of the initiative to require charitable foundations to grant 10% of their assets each year to better support our charities and those in need in our communities?   I would like to add my name and support to this initiative. And I am asking you to use your connections and voice to support this. \n\n' +
             'Since there are taxpayer dollars represented in these foundations by way of charity tax credits given to the foundation donors, I feel I have a right to say how I wish my taxes to be used. \n\n' +
-            'Foundation have accumulated over $80 Billion in their endowments, while charities struggle to help Canadians in need.  We need more foundation wealth granted each year to help , especially in these challenging times.   I am sure we both know many struggling charities in our riding.  It is time to make a meaningful gesture to help them. \n\n' +
+            'Foundations have accumulated over $80 Billion in their endowments, while charities struggle to help Canadians in need.  We need more foundation wealth granted each year to help , especially in these challenging times.   I am sure we both know many struggling charities in our riding.  It is time to make a meaningful gesture to help them. \n\n' +
             'Foundation behaviour over the past ten years shows that they have not voluntarily stepped up so we need a policy requiring it.  We need you, as an elected official to make this happen.  I ask you to discuss this issue with your party leadership (and the Prime Minister) to support a motion to set the required annual Distribution Quota  of foundations to 10%. -  At minimum, we need a five-year pilot test due to the current and residual impact of COVID-19. \n\n' +
             'You can learn more at https://increasethegrants.ca\n' +
             'I look forward to seeing this initiative succeed. I am counting on you!\n' +
