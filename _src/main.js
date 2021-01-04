@@ -9,6 +9,7 @@ import PetitionModal from "./components/PetitionModal";
 import SidebarButtons from "./components/SidebarButtons";
 import SocialModal from "./components/SocialModal";
 import DonationModal from "./components/DonationModal";
+import Quicklinks from "./Quicklinks";
 
 Vue.use(VueI18n);
 Vue.use(VueFinalModal());
@@ -31,3 +32,8 @@ const app = new Vue({
 }).$mount('#app');
 
 drawChart();
+
+let ql = new Quicklinks(
+    document.getElementsByClassName('quicklink'),
+    document.getElementById('hero--cta')
+);

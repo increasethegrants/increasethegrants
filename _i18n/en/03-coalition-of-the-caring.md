@@ -1,4 +1,4 @@
-## About this Initiative
+## A Coalition of the Caring
 
 Based on Ipsos research<sup><a href="https://sector3insights.com/products/canadianis-understanding-and-opinions-of-charitable-foundations" target="_blank">1</a></sup>, it is clear that Canadians have two fundamental perspectives about charitable foundations:
 

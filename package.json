@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "moment": "^2.29.1",
+    "scroll-to-element": "^2.0.3",
     "vue": "^2.6.12",
     "vue-final-modal": "^0.21.1",
     "vue-i18n": "^8.22.2"
