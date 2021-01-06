@@ -30,23 +30,23 @@ export default function () {
                     pointRadius: 4,
                     pointHoverRadius: 6,
                     data: dataSets[0],
-                    fill: '+1'
+                    // fill: '+1'
                 },
-                {
-                    label: "Total Grants From Foundations",
-                    backgroundColor: "rgba(7,86,177, 0.3)",
-                    borderColor: "rgba(7,86,177, 0.8)",
-                    pointRadius: 4,
-                    pointHoverRadius: 6,
-                    yAxisID: 'y-axis-dollars',
-                    data: dataSets[1]
-                },
+                // {
+                //     label: "Total Grants From Foundations",
+                //     backgroundColor: "rgba(7,86,177, 0.3)",
+                //     borderColor: "rgba(7,86,177, 0.8)",
+                //     pointRadius: 4,
+                //     pointHoverRadius: 6,
+                //     yAxisID: 'y-axis-dollars',
+                //     data: dataSets[1]
+                // },
                 {
                     label: "Granting as % of Assets",
                     backgroundColor: "transparent",
-                    borderColor: "rgba(0, 0, 0, 0.4)",
+                    borderColor: "rgba(7,86,177, 0.8)",
                     yAxisID: 'y-axis-percent',
-                    pointBackgroundColor: "rgba(0, 0, 0, 0.4)",
+                    pointBackgroundColor: "rgba(7,86,177, 0.8)",
                     pointRadius: 4,
                     pointHoverRadius: 6,
                     borderDash: [10, 5],
@@ -56,13 +56,16 @@ export default function () {
             ]
         },
         options: {
+            legend: {
+                display: false
+            },
             tooltips: {
                 mode: "index",
                 intersect: true,
                 callbacks: {
                     label(dataSetItem, config) {
                         let label = config.datasets[dataSetItem.datasetIndex].label;
-                        if (dataSetItem.datasetIndex === 2) {
+                        if (dataSetItem.datasetIndex === 3) {
                             return label + ': ' + dataSetItem.value + '%';
                         }
                         return label + ': $' + dataSetItem.value + ' B';
@@ -78,7 +81,9 @@ export default function () {
                         id: 'y-axis-dollars',
                         scaleLabel: {
                             display: true,
-                            labelString: 'dollars (billions)',
+                            labelString: 'Value of Assets in Foundations ($ billions)',
+                            fontColor: '#d95c34',
+                            fontSize: 14
                         },
                         ticks: {
                             beginAtZero: true,
@@ -94,6 +99,12 @@ export default function () {
                         display: true,
                         position: 'right',
                         id: 'y-axis-percent',
+                        scaleLabel: {
+                            display: true,
+                            labelString: 'Grants as a % of Assets',
+                            fontColor: '#0756b1',
+                            fontSize: 14
+                        },
                         ticks: {
                             stepSize: 1,
                             min: 7,
