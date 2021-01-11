@@ -85,3 +85,35 @@
   &--small
     font-size: $type-size-7
 
+  &--copy
+    position: relative
+    &:before
+      content: "copied to clipboard"
+      position: absolute
+      background-color: $color-light-orange
+      border-radius: 5px
+      padding: 0.25em 0.5em
+      font-size: 0.75em
+      left: 50%
+      transform: translateX(-50%)
+      white-space: nowrap
+      bottom: calc(100% + 7px)
+      opacity: 0
+      transition: opacity 0.3s ease-out
+    &:after
+      opacity: 0
+      content: ""
+      position: absolute
+      width: 0
+      height: 0
+      left: 50%
+      transform: translateX(-50%)
+      bottom: 100%
+      border-left: 7px solid transparent
+      border-right: 7px solid transparent
+      border-top: 7px solid $color-light-orange
+      transition: opacity 0.3s ease-out
+    &.copied::before, &.copied::after
+      opacity: 100
+
+

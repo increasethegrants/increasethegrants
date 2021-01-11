@@ -14,24 +14,36 @@ export const ENGLISH_TRANSLATIONS = {
     reps: {
         modalHeader: 'Contact Your Representatives',
         form: {
-            instructions: 'Enter your postal code to look up the contact information of your federal and provincial government Representatives. An email template will be generated with the information that you provide.',
+            inputInstructions: 'Enter your postal code to look up the contact information of your federal and provincial government Representatives.<br><br>An email template will be generated with the information that you provide. Please review and personalize your email – especially the subject line. While template emails are valuable, personalizing your email will demonstrate your commitment and concern.',
+            foundRepsInstructions: 'We found the following representative(s) for the postal code <var>{postal}</var>.',
+            emailInstructions: 'Copy the "To" address, "BCC" address, title and message into your mail client. <br><br>Please review and personalize your email – especially the subject line. While template emails are valuable, personalizing your email will demonstrate your commitment and concern.',
             submitterPostal: 'Postal Code',
             submitterName: 'Your Full Name',
             submit: 'Submit',
             searchAgain: 'Search Again',
+            sendEmail: 'Send Email',
+            repEmail: 'To Address',
+            bccAddress: 'BCC Address',
+            bccExplanation: 'Send us a copy of your message to your representative to allow us follow up with them.',
+            emailTitle: 'Title',
+            emailBody: 'Message',
+            backToReps: 'Back',
+            copy: 'Copy to clipboard',
             error: {
                 nameRequired: 'Please enter your full name. This information is not recorded. It is only used for generating an email template.',
                 invalidPostal: 'Invalid postal code.',
-                notFound: 'No representatives found for the provided postal code.'
+                notFound: 'No representatives found for the postal code <var>{postal}</var>. Would you like to reach out to the Prime Minister directly instead?'
             }
         },
+        bccAddress: 'IncreaseTheGrants@gmail.com',
         emailTitle: 'Increase the Grants',
         emailBody: 'Dear {ministerName},\n\n' +
-            'I am a taxpayer and a constituent in your riding, and I am asking you to support an initiative that is very important to me.\n\n' +
-            'Perhaps you have heard of the initiative to require charitable foundations to grant 10% of their assets each year to better support our charities and those in need in our communities?   I would like to add my name and support to this initiative. And I am asking you to use your connections and voice to support this. \n\n' +
+            'I am a constituent in your riding, and I am asking you to support an initiative that is very important to me.\n\n' +
+            'Perhaps you have heard of the initiative to require charitable foundations to grant 10% of their assets each year to better support our charities and those in need in our communities?   I would like to add my name and support to this initiative, and I am asking you to raise this issue with the government, your colleagues in caucus, and in the House of Commons. \n\n' +
             'Since there are taxpayer dollars represented in these foundations by way of charity tax credits given to the foundation donors, I feel I have a right to say how I wish my taxes to be used. \n\n' +
-            'Foundations have accumulated over $80 Billion in their endowments, while charities struggle to help Canadians in need.  We need more foundation wealth granted each year to help , especially in these challenging times.   I am sure we both know many struggling charities in our riding.  It is time to make a meaningful gesture to help them. \n\n' +
-            'Foundation behaviour over the past ten years shows that they have not voluntarily stepped up so we need a policy requiring it.  We need you, as an elected official to make this happen.  I ask you to discuss this issue with your party leadership (and the Prime Minister) to support a motion to set the required annual Distribution Quota  of foundations to 10%. -  At minimum, we need a five-year pilot test due to the current and residual impact of COVID-19. \n\n' +
+            'Foundations have accumulated over $80 Billion in their endowments, while charities struggle to help Canadians in need.  Given that foundations are supported with charity tax credits given to foundation donors, I feel that Canadian taxpayers and governments have a key role in ensuring that foundations are effectively achieving the objective they were setup for – supporting charitable causes, not accumulating unproductive wealth. \n\n' +
+            'As you likely know, charities in our riding and across the country are struggling.  We need more foundation wealth granted each year to help , especially in these challenging times.   It is time to make a meaningful change to help them.\n\n' +
+            'Foundation behaviour over the past ten years shows that they have not voluntarily stepped up so we need a policy requiring it.  We need you, as an elected official to make this happen.  I ask you to discuss this issue with your party leadership and the Prime Minister\'s Office, and to support a motion to set the required annual Distribution Quota  of foundations to 10%. -  At minimum, we need a five-year pilot test due to the current and residual impact of COVID-19. \n\n' +
             'You can learn more at https://increasethegrants.ca\n' +
             'I look forward to seeing this initiative succeed. I am counting on you!\n' +
             'Thank you for your attention and support.\n\n' +

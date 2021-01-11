@@ -1,12 +1,12 @@
 <template>
   <div class="cta-buttons container">
     <button class="btn btn--block btn--blue"
-            @click="$vfm.show('petition-modal')">
-      {{ $t('sidebar.buttons.petition') }}
-    </button>
-    <button class="btn btn--block btn--blue"
             @click="$vfm.show('representatives-modal')">
       {{ $t('sidebar.buttons.representatives') }}
+    </button>
+    <button class="btn btn--block btn--blue"
+            @click="$vfm.show('petition-modal')">
+      {{ $t('sidebar.buttons.petition') }}
     </button>
     <button class="btn btn--block btn--blue"
             @click="$vfm.show('social-modal')">

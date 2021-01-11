@@ -3,7 +3,7 @@
    ========================================================================== */
 
 form
-  margin: 0 0 5px 0
+  margin: 0 0 1em 0
   padding: 1em 2em
   background-color: $form-background-color
 
@@ -29,10 +29,24 @@ form
     padding: 0
 
 
-  br
-    display: none
+.field-wrap
+  display: flex
+  flex-direction: row
+  align-items: stretch
+  margin-bottom: 0.5em
+  input, textarea
+    border-top-right-radius: 0
+    border-bottom-right-radius: 0
+    margin-bottom: 0
+  .btn
+    margin-bottom: 0
 
-
+.field-wrap-abs
+  position: relative
+  .btn
+    position: absolute
+    top: 0
+    right: 0
 
 label,
 input,
@@ -201,7 +215,7 @@ textarea[disabled],
 input[readonly],
 select[readonly],
 textarea[readonly]
-  opacity: 0.5
+  color: $gray
   cursor: not-allowed
 
 

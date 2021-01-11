@@ -1,6 +1,6 @@
 website:
   name: Increase The Grants
-  subtitle: A movement to demand greater accountability from Canadian charitable foundations
+  subtitle: A movement to require greater granting from Canadian charitable foundations
   canonical: https://increasethegrants.ca
 
 nav:
@@ -11,6 +11,7 @@ hero:
   policy: We need the Canadian Government to require greater distribution quotas from charitable foundations.
   grants: If foundations returned to granting 10% of their assets each year, that would provide an extra <em>$4 billion</em> per year for Canadian charities and the people that they serve.
   you: You can help make this happen.<br>We need your voice (not your money!)
+  learnMore: Scroll down to learn more.
 
 sidebar:
   heading: Get Involved
@@ -25,6 +26,7 @@ sidebar:
     foundations: Foundations & Government
     dq: The Disbursement Quota
     10pct: Impacts of a 10% Quota
+    about: About This Initiative
     press: Press & Articles
 
 notFound:

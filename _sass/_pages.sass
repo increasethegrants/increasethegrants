@@ -108,6 +108,11 @@
   font-weight: bold
   text-align: center
   justify-self: end
+  .fas
+    display: block
+    text-align: center
+    font-size: 2em
+    margin-top: 0.5em
 
 #hero--banner
   background-color: $color-yellow
@@ -136,7 +141,6 @@
     display: flex
     align-items: stretch
     justify-content: space-between
-    //margin: 0
     .btn
       width: span(3 of 12)
       margin: 0
@@ -219,6 +223,8 @@
   background: #fff
   padding: 2em
   margin: 0 1em
+  overflow: auto
+  max-height: 95vh
   &.modal--small
     max-width: $small
   &.modal--wide
@@ -247,10 +253,12 @@
 
 .validation-error
   color: $danger-color
+  line-height: 1.2
+  margin-bottom: 0.5em
 
 #representatives
   display: flex
-  justify-content: space-between
+  justify-content: space-around
   margin-bottom: 2em
 .representative
   display: flex
@@ -301,6 +309,7 @@
 
 .rep--jurisdiction
   margin: 0.5em 0
+
 
 .social-buttons
   display: flex

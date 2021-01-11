@@ -1,0 +1,38 @@
+{
+  "representative_set_name": "House of Commons",
+  "source_url": "https://www.ourcommons.ca/Members/en/search?caucusId=all&province=all",
+  "last_name": "Trudeau",
+  "url": "https://www.ourcommons.ca/Members/en/justin-trudeau(58733)",
+  "extra": {
+    "preferred_languages": [
+      "French  English"
+    ]
+  },
+  "email": "pm@pm.gc.ca",
+  "name": "Justin Trudeau",
+  "elected_office": "Prime Minister",
+  "district_name": "",
+  "first_name": "Justin",
+  "offices": [
+    {
+      "postal": "House of Commons\nOttawa ON  K1A 0A6",
+      "type": "legislature",
+      "fax": "1 613 947-0310",
+      "tel": "1 613 992-4211"
+    },
+    {
+      "postal": "Main office - Montréal\n1100 Crémazie East\n\nSuite 220\nMontréal QC  H2P 2X2",
+      "type": "constituency",
+      "fax": "1 514 277-3454",
+      "tel": "1 514 277-6020"
+    }
+  ],
+  "personal_url": "",
+  "photo_url": "https://www.ourcommons.ca/Content/Parliamentarians/Images/OfficialMPPhotos/43/TrudeauJustin_LIB.jpg",
+  "gender": "M",
+  "party_name": "Liberal",
+  "related": {
+    "boundary_url": "/boundaries/federal-electoral-districts/24055/",
+    "representative_set_url": "/representative-sets/house-of-commons/"
+  }
+}

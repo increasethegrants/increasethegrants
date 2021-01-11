@@ -9,16 +9,30 @@
     <div id="hero--title">
         <h1 id="site-title">{% t website.name %}</h1>
         <h2 id="site-subtitle">{% t website.subtitle %}</h2>
+        <p class="hero--callout"></p>
     </div>
     <div id="hero--content">
         <div id="hero--content-inner">
             <div></div>
             <div>
-                <p>{% t hero.struggling %}</p>
-                <p>{% t hero.policy %}</p>
-                <p>{% t hero.grants %}</p>
+                <div class="responsive-video-container">
+                    <iframe width="560" height="315"
+                            src="https://www.youtube.com/embed/EWG-ooaZ5N4?modestbranding=1"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                </div>
+                {% comment %}
+                    <p>{% t hero.struggling %}</p>
+                    <p>{% t hero.policy %}</p>
+                    <p>{% t hero.grants %}</p>
+                {% endcomment %}
             </div>
-            <p class="hero--callout">{% t hero.you %}</p>
+            <p class="hero--callout">
+                {% t hero.you %}<br>
+                {% t hero.learnMore %}
+                <i class="fas fa-chevron-down"></i>
+            </p>
         </div>
     </div>
 </header>
