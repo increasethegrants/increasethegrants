@@ -110,7 +110,7 @@
             <div class="field-wrap">
               <input type="email"
                      id="rep--email-title"
-                     :value="$t('reps.emailTitle')"
+                     :value="emailTitle"
                      ref="emailTitle"
                      readonly>
               <button class="btn btn--blue btn--copy"
@@ -156,6 +156,7 @@ export default {
     formError: '',
     representatives: [],
     selectedRep: null,
+    selectedTemplate: 0,
     mailtoTimeout: null,
     successfullySent: false,
   }),
@@ -165,7 +166,7 @@ export default {
         this.$refs.postalInput.focus();
       }
     },
-    searchReps: async function (e) {
+    searchReps: async function () {
       this.formError = '';
       if (!this.postal.match(/[A-Z]\d[A-Z]\s?\d[A-Z]\d/)) {
         this.formError = this.$t('reps.form.error.invalidPostal');
@@ -182,6 +183,11 @@ export default {
         this.formError = this.$t('reps.form.error.notFound', {postal: this.postal});
         this.representatives = [primeMinister];
       }
+      this.selectedTemplate = this.selectRandomTemplate();
+    },
+    selectRandomTemplate() {
+      let count = this.$t('reps.emailTemplates').length;
+      return Math.floor(Math.random() * count);
     },
     repStyle: function (rep) {
       return {
@@ -191,12 +197,8 @@ export default {
     mailtoAddress: function (rep) {
       let email = encodeURI(this.formatEmail(rep));
       let bcc = encodeURIComponent(this.$t('reps.bccAddress'));
-      let subject = encodeURIComponent(this.$t('reps.emailTitle'));
-      let body = encodeURIComponent(this.$t('reps.emailBody', {
-        ministerName: rep.name,
-        submitterName: this.submitterName,
-        submitterPostal: this.postal
-      }));
+      let subject = encodeURIComponent(this.emailTitle);
+      let body = encodeURIComponent(this.emailBody);
       return `mailto:${email}?subject=${subject}&body=${body}&bcc=${bcc}`;
     },
     formatEmail: function (rep) {
@@ -210,12 +212,14 @@ export default {
       let blurHandler = () => {
         window.removeEventListener('blue', blurHandler, false);
         clearTimeout(this.mailtoTimeout);
+        this.mailtoTimeout = null;
         this.successfullySent = true;
       };
 
       window.addEventListener('blur', blurHandler, false);
       this.mailtoTimeout = setTimeout(() => {
         this.selectedRep = rep;
+        this.mailtoTimeout = null;
         clearTimeout(this.mailtoTimeout);
       }, 700);
     },
@@ -226,6 +230,7 @@ export default {
       this.formError = '';
       this.selectedRep = null;
       this.successfullySent = false;
+      this.mailtoTimeout = null;
     },
     copyField: function (field, e) {
       let elem = this.$refs[field];
@@ -254,12 +259,18 @@ export default {
           && this.representatives.length > 0
           && this.selectedRep !== null
     },
+    emailTitle: function () {
+      return this.$t(`reps.emailTemplates.${this.selectedTemplate}.title`);
+    },
     emailBody: function () {
-      return this.$t('reps.emailBody', {
-        ministerName: this.selectedRep.name,
-        submitterName: this.submitterName,
-        submitterPostal: this.postal
-      })
+      return this.$t(
+          `reps.emailTemplates.${this.selectedTemplate}.body`,
+          {
+            ministerName: this.selectedRep ? this.selectedRep.name : 'member of parliament',
+            submitterName: this.submitterName,
+            submitterPostal: this.postal
+          }
+      )
     }
   }
 }
