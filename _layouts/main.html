@@ -5,9 +5,19 @@
 <head>
     <meta charset="UTF-8">
     <title>{% t website.name %}</title>
-    <meta name="description" content="{{ website.description }}">
+    <meta name="description" content="{{ website.subtitle }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <link rel="canonical" href="{% t website.canonical %}">
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@giv3_canada" />
+    <meta name="twitter:title" content="{% t website.name %}" />
+    <meta name="twitter:description" content="{% t website.name %}" />
+    <meta name="twitter:image" content="{{ '/assets/img/leaf-tw.jpg' | prepend: site.baseurl_root }}?v={{ site.time | date: '%s' }}" />
+    <meta property="og:url" content="{% t website.canonical %}" />
+    <meta property="og:title" content="{% t website.name %}" />
+    <meta property="og:description" content="{% t website.subtitle %}" />
+    <meta property="og:image" content="{{ '/assets/img/leaf-fb.jpg' | prepend: site.baseurl_root }}?v={{ site.time | date: '%s' }}" />
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500&display=swap"

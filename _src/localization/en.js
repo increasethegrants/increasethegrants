@@ -16,7 +16,11 @@ export const ENGLISH_TRANSLATIONS = {
         form: {
             inputInstructions: 'Enter your postal code to look up the contact information of your federal and provincial government Representatives.<br><br>An email template will be generated with the information that you provide. Please review and personalize your email – especially the subject line. While template emails are valuable, personalizing your email will demonstrate your commitment and concern.',
             foundRepsInstructions: 'We found the following representative(s) for the postal code <var>{postal}</var>.',
-            emailInstructions: 'Copy the "To" address, "BCC" address, title and message into your mail client. <br><br>Please review and personalize your email – especially the subject line. While template emails are valuable, personalizing your email will demonstrate your commitment and concern.',
+            emailInstructions: 'We were unable to open your email client automatically. To draft the email manually:' +
+                '<ol><li>Open your email client and begin drafting a new email</li>' +
+                '<li>Copy the "To" address, "BCC" address, title and message below into respective fields of the email.</li>' +
+                '<li>Please review and personalize your email – especially the subject line. While template emails are valuable, personalizing your email will demonstrate your commitment and concern.</li>' +
+                '<li>Press "Send" to submit the email to your representative</li></ol>',
             submitterPostal: 'Postal Code',
             submitterName: 'Your Full Name',
             submit: 'Submit',
@@ -104,7 +108,7 @@ export const ENGLISH_TRANSLATIONS = {
                     '• There would be no cost to Revenue Canada since the money is already just sitting in foundation ' +
                     'investment accounts.\n' +
                     '• The majority of Canadians support the idea of increasing the require distribution to 10% (based ' +
-                    'on Ipsos research).\n' +
+                    'on Ipsos research: https://sector3insights.com/products/canadians-understanding-and-opinions-of-charitable-foundations/).\n' +
                     '• Your party can be seen as supporting the two million Canadian voters working in the Non-Profit ' +
                     'Sector, and the millions more who volunteer.\n' +
                     '• The billions of dollars sitting in bank accounts will have a significant economic multiplier when ' +
@@ -150,7 +154,7 @@ export const ENGLISH_TRANSLATIONS = {
         instructions: [
             'Click the link below to continue to CanadaHelps.org.',
             'Enter an amount that you wish to donate now or as a recurring payment',
-            'Select the <strong>"IncreaseTheGrants"</strong> fund from the dropdown.',
+            'Select the <strong>"Increase The Grants"</strong> option from the fund dropdown.',
             'Click "continue with donation" to proceed to payment options',
         ],
         buttonText: 'Proceed to CanadaHelps.org',
