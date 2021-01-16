@@ -159,5 +159,8 @@ export const ENGLISH_TRANSLATIONS = {
         ],
         buttonText: 'Proceed to CanadaHelps.org',
         buttonUrl: 'https://www.canadahelps.org/en/charities/giv3/'
+    },
+    toc: {
+        modalHeader: 'Table of Contents'
     }
 }

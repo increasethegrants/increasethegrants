@@ -16,6 +16,11 @@
             @click="$vfm.show('donation-modal')">
       {{ $t('sidebar.buttons.donation') }}
     </button>
+    <button id="btn-toc"
+            class="btn btn--blue"
+            @click="$vfm.show('toc-modal')">
+      <i class="fas fa-bars"></i>
+    </button>
   </div>
 </template>
 

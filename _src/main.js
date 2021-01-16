@@ -11,6 +11,7 @@ import SocialModal from "./components/SocialModal";
 import DonationModal from "./components/DonationModal";
 import Quicklinks from "./Quicklinks";
 import ModalLink from "./components/ModalLink";
+import TocModal from "./components/TocModal";
 
 Vue.use(VueI18n);
 Vue.use(VueFinalModal());
@@ -20,6 +21,7 @@ Vue.component('socialModal', SocialModal);
 Vue.component('donationModal', DonationModal);
 Vue.component('sidebarButtons', SidebarButtons);
 Vue.component('modalLink', ModalLink);
+Vue.component('tocModal', TocModal);
 
 const i18n = new VueI18n({
     locale: document.documentElement.lang,
