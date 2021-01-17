@@ -1,10 +1,35 @@
-site:
-  name: AugmenterLesDons
+website:
+  name: Donner Plus
+  subtitle: Un mouvement pour exiger plus de subventions de la part des fondations caritatives canadiennes
   canonical: https://www.increasethegrants.ca/fr
 
 nav:
   lang_en: EN
 
+hero:
+  struggling: Les organismes de bienfaisance canadiens sont en difficulté au moment où les fondations s’enrichissent rapidement
+  policy: We need the Canadian Government to require greater distribution quotas from charitable foundations.
+  grants: If foundations returned to granting 10% of their assets each year, that would provide an extra <em>$4 billion</em> per year for Canadian charities and the people that they serve.
+  you: Vous pouvez aider à améliorer le soutien aux organismes de bienfaisance<br>Nous avons besoin de votre voix<br>(et non
+    de votre argent!)
+  learnMore: Faites défiler vers le bas pour en savoir plus.
+  videoId: 7TbbmjclN8E
+
+sidebar:
+  learn-more:
+    heading: Table des matières
+    urgent: C'est urgent
+    request: Une demande très raisonnable
+    coalition: Une coalition de bienveillants
+    gap: L’écart caritatif
+    nonprofit: Types d’OBNF
+    foundations: Les fondations et le gouvernement
+    dq: Le quota de décaissement
+    10pct: Impact d'un QD de 10%
+    about: À propos de cette initiative
+    press: Articles de presse
+
 notFound:
-  heading: Page non trouvé.
+  heading: Page non trouvée.
   content: La page demandée n'existe pas.
+  back: Retour à la page d'accueil

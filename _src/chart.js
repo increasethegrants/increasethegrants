@@ -23,7 +23,7 @@ export default function () {
             labels: ["2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017"],
             datasets: [
                 {
-                    label: "Total Foundation Assets",
+                    label: window.i18n.t("chart.axis.assets"),
                     backgroundColor: "rgba(217,92,62,0.3)",
                     borderColor: "rgba(217,92,62,0.8)",
                     yAxisID: 'y-axis-dollars',
@@ -42,7 +42,7 @@ export default function () {
                 //     data: dataSets[1]
                 // },
                 {
-                    label: "Granting as % of Assets",
+                    label: window.i18n.t("chart.axis.grantingPct"),
                     backgroundColor: "transparent",
                     borderColor: "rgba(7,86,177, 0.8)",
                     yAxisID: 'y-axis-percent',
@@ -81,7 +81,7 @@ export default function () {
                         id: 'y-axis-dollars',
                         scaleLabel: {
                             display: true,
-                            labelString: 'Value of Assets in Foundations ($ billions)',
+                            labelString: window.i18n.t("chart.axis.assets"),
                             fontColor: '#d95c34',
                             fontSize: 14
                         },
@@ -101,7 +101,7 @@ export default function () {
                         id: 'y-axis-percent',
                         scaleLabel: {
                             display: true,
-                            labelString: 'Grants as a % of Assets',
+                            labelString: window.i18n.t("chart.axis.grantingPct"),
                             fontColor: '#0756b1',
                             fontSize: 14
                         },

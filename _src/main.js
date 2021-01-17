@@ -34,6 +34,8 @@ const i18n = new VueI18n({
 const app = new Vue({
     i18n,
 }).$mount('#app');
+window.app = app;
+window.i18n = i18n;
 
 drawChart();
 

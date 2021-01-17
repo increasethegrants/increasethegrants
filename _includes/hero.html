@@ -1,10 +1,8 @@
 <header id="hero">
     {% if site.lang == "en" %}
-        {% capture link_fr %}{{ site.translations['fr']['site']['canonical'] }}{% endcapture %}
-        <a href="{{ link_fr }}" class="lang-picker">{% t nav.lang_fr %}</a>
+        <a href="/fr" class="lang-picker">{% t nav.lang_fr %}</a>
         {% elsif site.lang == "fr" %}
-        {% capture link_en %}{{ site.translations['en']['site']['canonical'] }}{% endcapture %}
-        <a href="{{ link_en }}" class="lang-picker">{% t nav.lang_en %}</a>
+        <a href="/" class="lang-picker">{% t nav.lang_en %}</a>
     {% endif %}
     <div id="hero--title">
         <h1 id="site-title">{% t website.name %}</h1>

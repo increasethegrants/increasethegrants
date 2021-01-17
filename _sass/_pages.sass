@@ -87,6 +87,13 @@
   text-align: center
   padding: 0.25rem 0.5rem 0.5rem
   line-height: 0.9
+  width: 333px
+  @include breakpoint($medium)
+    width: 375px
+  @include breakpoint($large)
+    width: 417px
+  @include breakpoint($x-large)
+    width: 458px
 #site-subtitle
   font-size: 1em
   text-align: center
@@ -94,19 +101,21 @@
   color: $darker-gray
   background-color: #fff
   padding-bottom: 0.25rem
-  max-width: 333px
+  width: 333px
   @include breakpoint($medium)
-    max-width: 375px
+    width: 375px
   @include breakpoint($large)
-    max-width: 417px
+    width: 417px
   @include breakpoint($x-large)
-    max-width: 458px
+    width: 458px
 
 #hero--content
   background-color: $color-orange
   color: #fff
   padding: 1em
   font-size: 0.9em
+  html[lang="fr"] &
+    font-size: 0.8em
   @include breakpoint($medium-wide)
     p
       margin: 0

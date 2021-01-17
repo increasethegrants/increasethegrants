@@ -8,4 +8,4 @@ The use of the non-profit sector as a complement to government services appears 
 
 **In simple terms, charities and foundations exist, leveraging our taxes, because the electorate has chosen to accept this approach. In turn, these organizations are accountable to voters and taxpayers.** 
  
-However, we need greater accountability. Since taxpayer money is being used to empower foundations, we need better requirements, transparency and accountability from them. We need our governments to exercise stronger controls to ensure that these foundations are meeting the needs and wishes of the electorate, and in a timely manner.
+However, we need greater accountability. Since taxpayer money is being used to empower foundations, we need better requirements, transparency, and accountability from them. We need our governments to exercise stronger controls to ensure that these foundations are meeting the needs and wishes of the electorate and do so in a timely manner.

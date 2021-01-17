@@ -1,0 +1,14 @@
+## Une coalition de bienveillants
+
+D'après les recherches d'Ipsos<sup><a href="https://sector3insights.com/products/canadianis-understanding-and-opinions-of-charitable-foundations" target="_blank">1</a></sup>, les Canadiens ont deux points de vue fondamentaux sur les fondations caritatives:
+
+1. Les fondations jouent un rôle important et devraient exister, et
+2. Les fondations devraient faire preuve de plus de transparence, rendre des comptes et être tenues d'accorder plus d'argent plus tôt.
+ 
+Plusieurs articles ont été publiés à l'appui de l'augmentation du «quota de distribution» requis des fondations caritatives<sup><a href="https://policyoptions.irpp.org/magazines/may-2020/unlocking-the-expanding-wealth-of-charitable-foundations/" target="_blank">2</a>, <a href="https://www.thecharityreport.com/features/dq-increase-adds-billions-to-the-charity-economy/" target="_blank">3</a></sup>. Ottawa a entendu l'appel, mais jusqu'à présent, notre gouvernement fédéral est resté silencieux à ce sujet. Puisque c'est une question d'argent des contribuables et de la façon dont elle est utilisé, il incombe maintenant aux électeurs et aux contribuables engagés de faire connaître leurs attentes au gouvernement.
+
+On pourrait penser que les organismes de bienfaisance en difficulté devraient mener cette initiative, mais ils se retrouvent dans une situation précaire. La grande majorité des organismes de bienfaisance reçoivent du financement d'une ou de plusieurs fondations. Par conséquent, ils n'osent pas mordre la main qui les nourrit même s'ils sont d'accord avec l'initiative et même s'ils ont désespérément besoin de financement additionnel. Donc, nous avons besoin de citoyens informés qui se mobilisent au nom des organismes pour exiger davantage de notre gouvernement et de nos fondations.
+
+Une petite «coalition de bienveillants» a travaillé pour lancer ce site web et cette campagne publique. Nous sommes un groupe de citoyens canadiens bien informés qui ont étudié la question et qui souhaitent se battre pour soutenir les Canadiens en difficulté. Nous croyons que nous devrions tous avoir notre mot à dire sur la façon dont nos impôts sont dépensés ainsi que sur les politiques qui régissent les fondations et les organismes de bienfaisance qui sont financés par nos impôts. Nous comprenons le rôle important des fondations, mais nous estimons qu'elles devraient être tenues à des normes plus élevées en échange des déductions et exonérations fiscales dont elles bénéficient.
+
+Cette initiative visant à «donner plus» est tout simplement la quête de vouloir faire ce qui est juste pour aider les organismes de bienfaisance en difficulté et les Canadiens dans le besoin. Ce site web et la campagne publique associée visent à sensibiliser les gens aux avantages de l'augmentation du «quota de distribution» des fondations et à augmenter le soutien du public pour en faire une réalité.
