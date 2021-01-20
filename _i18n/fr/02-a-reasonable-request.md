@@ -7,11 +7,11 @@
 
 Pour commencer, nous proposons un test pilote de 5 ans obligeant les fondations à revenir à l'octroi de 8% à 10% de leurs actifs chaque année. Par la suite, nous mesureront l'impact de ce changement sur la philanthropie.
 
-Un quota de distribution de 10% est une demande très raisonnable :
+Un quota de distribution de 8 à 10% est une demande très raisonnable :
  
 * Le niveau moyen d'octroi par les fondations a été d'environ 7% à 8% du total des actifs au cours des dernières années.
 * En 2008 et 2011, la moyenne était au dessus de 10%.
-* Un QD plus élevé ne serait pas un changement significatif pour les nombreuses fondations qui atteignent ou dépassent déjà le 10%. Une règlementation plus stricte est nécessaire pour ceux qui ne contribuent qu’au minimum.
+* Un QD plus élevé ne serait pas un changement significatif pour les nombreuses fondations qui atteignent ou dépassent déjà le 10%. <strong>Une règlementation plus stricte est nécessaire pour ceux qui ne contribuent qu’au minimum.</strong>
 * Puisque les marchés financiers augmentent en moyenne d'environ 6% à 8% par année, un QD de 8% à 10% offrirait un bon équilibre permettant aux fondations de maintenir une planification à long terme tout en déclenchant des milliards de plus pour les organismes de bienfaisance.
 
 Il y a une réelle urgence à agir maintenant! De nombreux Canadiens sont aux prises avec la pandémie du COVID-19. Ce n'est pas le moment pour les fondations caritatives de rester inactives et d'accumuler de la richesse. Nous devons sensibiliser et augmenter la pression sur nos élus afin de hausser considérablement le quota de distribution. Nous avons besoin de **votre** voix, aujourd’hui.

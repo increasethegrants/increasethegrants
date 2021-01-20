@@ -7,11 +7,11 @@
 
 We propose starting with a 5-year pilot test requiring foundations to return to granting a minimum of 8-10% of their assets each year, and then measuring the impact that this change has on philanthropy. 
 
-A 10% distribution quota is a very reasonable request:
+A 8-10% distribution quota is a very reasonable request:
  
 * The average level of granting by foundations has been about 7-8% of total assets in the last few years.
 * Foundations averaged above 10% as recently as 2008 and 2011. 
-* Many foundations already meet or exceed this quota. Requiring a higher DQ is not a significant change for many. This stronger regulation is necessary for those that contribute closer to the minimum.
+* Many foundations already meet or exceed this quota. Requiring a higher DQ is not a significant change for many. <strong>This stronger regulation is necessary for those that contribute closer to the minimum.</strong
 * Since the financial markets average about 6-8% increase annually, a 8-10% DQ offers a nice balance between allowing foundations to maintain long-term planning while triggering billions more for charities.
 
 There is a real urgency to act now! Many Canadians are struggling as a result of the COVID-19 pandemic. This is not the time for charitable foundations to sit back and accumulate wealth. We need to build awareness and turn up the pressure on our elected officials to significantly increase the Distribution Quota. We need **YOUR** voice, today. 

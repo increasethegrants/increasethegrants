@@ -21,28 +21,29 @@ export const FRENCH_TRANSLATIONS = {
                 'surtout l’objet du message. Malgré que les modèles de ' +
                 'courriel soient utiles, le fait de personnaliser votre message ' +
                 'démontrera que vous êtes dévoués et préoccupés.',
-            foundRepsInstructions: 'We found the following representative(s) for the postal code <var>{postal}</var>.',
-            emailInstructions: 'We were unable to open your email client automatically. To draft the email manually:' +
-                '<ol><li>Open your email client and begin drafting a new email</li>' +
-                '<li>Copy the "To" address, "BCC" address, title and message below into respective fields of the email.</li>' +
-                '<li>Please review and personalize your email – especially the subject line. While template emails are valuable, personalizing your email will demonstrate your commitment and concern.</li>' +
-                '<li>Press "Send" to submit the email to your representative</li></ol>',
+            foundRepsInstructions: 'Nous avons trouvé le représentant suivant pour le code postal <var>{postal}</var>.',
+            emailInstructions: 'Nous n\'avons pas pu ouvrir automatiquement votre client de ' +
+                'messagerie. Pour rédiger manuellement le courriel:' +
+                '<ol><li>Ouvrez votre client de messagerie et commencez à rédiger un nouvel courriel</li>' +
+                '<li>Copiez l\'adresse «À», l\'adresse «BCC», le titre et le message ci-dessous dans les champs respectifs de le courriel.</li>' +
+                '<li>Veuillez revoir et personnaliser votre courriel, en particulier la ligne d\'objet. Bien que les modèles de courrier électronique soient précieux, la personnalisation de votre courrier électronique démontrera votre engagement et votre préoccupation.</li>' +
+                '<li>Appuyez sur "Envoyer" pour envoyer le courriel à votre représentant</li></ol>',
             submitterPostal: 'Code postal',
             submitterName: 'Votre nom complet',
             submit: 'Soumettre',
-            searchAgain: 'Search Again',
-            sendEmail: 'Send Email',
-            repEmail: 'To Address',
-            bccAddress: 'BCC Address',
-            bccExplanation: 'Send us a copy of your message to your representative to allow us follow up with them.',
-            emailTitle: 'Title',
-            emailBody: 'Message',
+            searchAgain: 'Chercher à nouveau',
+            sendEmail: 'Envoyez un courriel',
+            repEmail: 'l\'adresse «À»',
+            bccAddress: 'l\'adresse «BCC»',
+            bccExplanation: 'Envoyez-nous une copie de votre message à votre représentant pour nous permettre de faire un suivi avec lui.',
+            emailTitle: 'le titre',
+            emailBody: 'le message',
             backToReps: 'Back',
-            copy: 'Copy to clipboard',
+            copy: 'Copier dans le presse-papier',
             error: {
-                nameRequired: 'Please enter your full name. This information is not recorded. It is only used for generating an email template.',
-                invalidPostal: 'Invalid postal code.',
-                notFound: 'No representatives found for the postal code <var>{postal}</var>. Would you like to reach out to the Prime Minister directly instead?'
+                nameRequired: 'S\'il vous plait entrez votre nom entier. Ces informations ne sont pas enregistrées. Il est uniquement utilisé pour générer un modèle de courrier électronique.',
+                invalidPostal: 'Code postal invalide.',
+                notFound: 'Aucun représentant trouvé pour le code postal <var>{postal}</var>. Souhaitez-vous plutôt contacter directement le premier ministre?'
             }
         },
         bccAddress: 'IncreaseTheGrants@gmail.com',
@@ -82,7 +83,7 @@ export const FRENCH_TRANSLATIONS = {
         subtitle: 'Aidez à sensibiliser plus de gens à cette initiative rationnelle en la partageant avec vos contacts sur les réseaux sociaux.',
         shareUrl: 'https://increasethegrants.ca/fr',
         twitter: {
-            text: 'We need to expect more from charitable foundations!',
+            text: 'Nous devons attendre plus des fondations!',
             hashtag: 'donnerplus'
         }
     },
