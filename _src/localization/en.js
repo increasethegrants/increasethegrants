@@ -9,7 +9,8 @@ export const ENGLISH_TRANSLATIONS = {
         }
     },
     petition: {
-        modalHeader: 'Sign the Petition'
+        modalHeader: 'Sign the Petition',
+        url: 'https://www.petitions.net/emb/303450'
     },
     reps: {
         modalHeader: 'Contact Your Representatives',
@@ -151,7 +152,7 @@ export const ENGLISH_TRANSLATIONS = {
     },
     chart: {
         axis: {
-            assets: 'Valeur des actifs dans les fondations (en milliards de dollars)',
+            assets: 'Value of Assets in foundations ($ billions)',
             grantingPct: 'Granting as % of Assets'
         }
     }

@@ -8,7 +8,7 @@
     <button class="modal__close" @click="showModal = false">
       <i class="fas fa-times"></i>
     </button>
-    <iframe src="https://www.petitions.net/emb/303450"
+    <iframe :src="$t('petition.url')"
             class="petition-embed"></iframe>
   </vue-final-modal>
 </template>

@@ -18,4 +18,5 @@ Le secteur des OBNL au Canada est vaste : il emploie des millions de gens et en 
         <em>**Cette catégorie de fondations repose collectivement sur une somme croissante de plus de 80 milliards de dollars.**</em> 
 
 * (2) Autres organismes / associations à but non lucratif
+
     Il s’agit généralement de centres communautaires, de clubs, d’associations syndicales, etc. Ces organismes ne peuvent pas offrir de reçus d’impôt pour les dons de bienfaisance. Ils ont tendance à facturer des frais d'adhésion ou à vendre des produits et services pour couvrir leurs frais d'exploitation.
