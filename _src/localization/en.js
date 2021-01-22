@@ -129,10 +129,17 @@ export const ENGLISH_TRANSLATIONS = {
     social: {
         modalHeader: 'Engage Others',
         subtitle: 'Help increase awareness of this common-sense initiative by sharing it with your contacts on social media.',
-        shareUrl: 'https://increasethegrants.ca',
+        shareUrl: 'https://www.increasethegrants.ca',
+        facebook: {
+            share: 'Share'
+        },
         twitter: {
+            share: 'Tweet',
             text: 'We need to expect more from charitable foundations!',
             hashtag: 'increasethegrants'
+        },
+        linkedin: {
+            share: 'Share'
         }
     },
     donation: {

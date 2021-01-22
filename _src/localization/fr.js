@@ -81,10 +81,17 @@ export const FRENCH_TRANSLATIONS = {
     social: {
         modalHeader: 'Impliquez les autres',
         subtitle: 'Aidez à sensibiliser plus de gens à cette initiative rationnelle en la partageant avec vos contacts sur les réseaux sociaux.',
-        shareUrl: 'https://increasethegrants.ca/fr',
+        shareUrl: 'https://www.increasethegrants.ca/fr',
+        facebook: {
+            share: 'Partager'
+        },
         twitter: {
+            share: 'Tweeter',
             text: 'Nous devons attendre plus des fondations!',
             hashtag: 'donnerplus'
+        },
+        linkedin: {
+            share: 'Partager'
         }
     },
     donation: {
