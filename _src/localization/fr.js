@@ -56,7 +56,7 @@ export const FRENCH_TRANSLATIONS = {
                     'amassé une importante richesse (maintenant de plus de $80 milliards en actifs) tout en réduisant leur ' +
                     'ratio de dons en provenance de leurs actifs (de 10% il y a dix ans à moins de 8% aujourd’hui). Pendant ce ' +
                     'temps, les organismes de bienfaisance peinent à satisfaire aux demandes croissantes des Canadiens ' +
-                    'dans le besoin. Je suis troublé par ces nouvelles : cette situation est inacceptable et ne reflète pas le rôle ' +
+                    'dans le besoin. Je suis troublé par ces nouvelles : cette situation est inacceptable et ne reflète pas le rôle ' +
                     'espéré des fondations. Je veux ce qu’il y a de mieux pour les organismes de bienfaisance dans notre ' +
                     'circonscription et j’espère que vous appuierez un changement positif à ce sujet lors du prochain budget.\n\n' +
                     'Puisque nos taxes sont utilisées pour les crédits d’impôt pour dons de bienfaisance remis aux gens ' +
@@ -76,7 +76,33 @@ export const FRENCH_TRANSLATIONS = {
                     'Merci beaucoup,\n\n' +
                     '{submitterName}\n{submitterPostal}'
             }
-        ]
+        ],
+        primeMinisterEmail: {
+            title: 'S’il-vous-plaît, assurez-vous que les fondations fassent leur part!',
+            body: 'Cher premier ministre Trudeau\n' +
+                'En tant qu’électeur et Canadien, je vous demande ainsi qu’à votre gouvernement de régler un problème' +
+                'qui affecte les organismes de bienfaisance au Canada.\n\n' +
+                'Jusqu’à tout récemment, je ne savais pas que les fondations caritatives au Canada avaient subtilement' +
+                'amassé une importante richesse (maintenant de plus de $80 milliards en actifs) tout en réduisant leur' +
+                'ratio de dons en provenance de leurs actifs (de 10% il y a dix ans à moins de 8% aujourd’hui). Pendant ce' +
+                'temps, les organismes de bienfaisance peinent à satisfaire aux demandes croissantes des Canadiens' +
+                'dans le besoin. Je suis troublé par ces nouvelles : cette situation est inacceptable et ne reflète pas le rôle' +
+                'espéré des fondations. Je veux ce qu’il y a de mieux pour les organismes de bienfaisance partout au' +
+                'Canada et j’espère que vous appuierez un changement positif à ce sujet lors du prochain budget.\n\n' +
+                'Puisque nos taxes sont utilisées pour les crédits d’impôt pour dons de bienfaisance remis aux gens' +
+                'fortunés qui donnent aux fondations, j’ai l’impression que nous pouvons exiger mieux. Je trouve' +
+                'inacceptable et injuste que les fondations amassent continuellement de l’argent dans leurs coffres et' +
+                'qu’ils retiennent cet argent pour les générations futures en laissant la souffrance des gens s’aggraver.\n\n' +
+                'On devrait exiger des fondations de donner plus puisqu’elles ne le font pas de façon volontaire. Nous' +
+                'devons travailler plus et plus fort afin d’adresser les enjeux sociaux plus rapidement.\n\n' +
+                'Je voudrais que les fondations soient exigées de donner 10% de leurs actifs par année et de cesser' +
+                'l’accumulation continuelle de richesses. Cette exigence aiderait les organismes de bienfaisance dans' +
+                'notre communauté ainsi que plusieurs électeurs dans notre circonscription. Pour en apprendre plus sur' +
+                'cet enjeu, visitez le www.increasethegrants.ca/fr/\n\n' +
+                'Je vous remercie de votre temps et de votre service envers la communauté. En espérant recevoir de vos' +
+                'nouvelles bientôt.\n\n' +
+                'Merci beaucoup,\n{submitterName}\n{submitterPostal}'
+        }
     },
     social: {
         modalHeader: 'Impliquez les autres',

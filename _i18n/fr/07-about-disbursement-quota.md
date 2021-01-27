@@ -6,7 +6,7 @@ Le but initial du quota de décaissement (depuis1950) était: **(1) d'empêcher 
 
 Dans les années 1970, le gouvernement fédéral fut convaincu de calculer le QD comme une base de l’actif de la fondation, initialement fixé à 5,0% de l’actif. Au fil du temps, le gouvernement a été encouragé à réduire davantage le QD à 4,5%, puis à le ramener au taux actuel de 3,5% de l'actif.
 
-Notez comment le document budgétaire de 1976 fixant le nouveau QD à 5% reconnaissait l'impact des dons de bienfaisance sur les contribuables :
+Notez comment le document budgétaire de 1976 fixant le nouveau QD à 5% reconnaissait l'impact des dons de bienfaisance sur les contribuables&nbsp;:
 
 > Les modifications proposées visaient à garantir que les sommes exonérées d'impôt versées aux organismes de bienfaisance soient utilisées comme prévu, aussi efficacement que possible, [...] **Parce que les revenus perdus à la suite de déductions ou d'exemptions […] infligent un impôt supplémentaire équivalent sur tous les autres contribuables.**
 >

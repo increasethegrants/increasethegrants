@@ -2,7 +2,7 @@
 
 Augmenter l'exigence de décaissement minimum au Canada à 8 à 10% offrirait un équilibre entre accomplir le bien collectif, plus tôt, et permettre aux fondations d'avoir suffisamment de longévité pour remplir leur rôle important.
 
-Un QD de 8 à 10% permettrait de :
+Un QD de 8 à 10% permettrait de&nbsp;:
 
 * Rapidement rediriger des milliards de dollars supplémentaires chaque année pour aider les organismes de bienfaisance sans engendrer de coûts supplémentaires pour nos budgets gouvernementaux. L'argent est déjà disponible (crédits après impôt).
 * Avoir un minimum d’impact sur la majorité des fondations qui accordent déjà près ou au-dessus du QD suggéré de 8 à 10%. Cela encouragerait surtout plus de générosité de la part des fondations qui accordent des montants plus proches du minimum (3,5%) et abaissent la moyenne.

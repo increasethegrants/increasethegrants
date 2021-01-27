@@ -1,10 +1,10 @@
 ## Types d’organismes à but non lucratif
 
-Le secteur des OBNL au Canada est vaste : il emploie des millions de gens et en dessert des millions d'autres. Ces organismes définissent nos communautés et le type de société dont nous bénéficions. Ils sont essentiels à notre qualité de vie. Malgré la simple idée de vouloir être bon et de faire le bien, le secteur est assez complexe et mêlant. Voici un bref résumé :
+Le secteur des OBNL au Canada est vaste : il emploie des millions de gens et en dessert des millions d'autres. Ces organismes définissent nos communautés et le type de société dont nous bénéficions. Ils sont essentiels à notre qualité de vie. Malgré la simple idée de vouloir être bon et de faire le bien, le secteur est assez complexe et mêlant. Voici un bref résumé&nbsp;:
 
 * (1)  Organismes + fondations de bienfaisance enregistrés
     
-    Organismes approuvés par l'Agence du revenu du Canada pour recevoir des dons de bienfaisance et pour fournir des reçus de crédit d'impôt pour ces dons. Ils jouent tous un rôle bénéfique pour la société. Il existe deux types d’organismes enregistrés :
+    Organismes approuvés par l'Agence du revenu du Canada pour recevoir des dons de bienfaisance et pour fournir des reçus de crédit d'impôt pour ces dons. Ils jouent tous un rôle bénéfique pour la société. Il existe deux types d’organismes enregistrés&nbsp;:
     * (1a) Organismes de bienfaisance
 
         Les organismes de bienfaisance ont tendance à consacrer tout leur financement annuel à la prestation de leurs services pour le bien public. <br> Les organismes de bienfaisance notables comprennent Centraide, l'Armée du Salut, la Croix-Rouge, Habitat pour l'humanité, les banques alimentaires, etc.

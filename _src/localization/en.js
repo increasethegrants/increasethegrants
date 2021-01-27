@@ -43,7 +43,7 @@ export const ENGLISH_TRANSLATIONS = {
         bccAddress: 'IncreaseTheGrants@gmail.com',
         emailTemplates: [
             {
-                title: 'Please make sure Foundations are doing their fair share!',
+                title: 'Please make sure that Foundations are doing their fair share!',
                 body: 'Dear {ministerName},\n\n' +
                     'I am a constituent in your riding, and I am asking you to help lend your voice in support of the charities in our riding and across Canada.\n\n' +
                     'Perhaps you have heard of the initiative to require charitable foundations to grant 10% of their assets ' +
@@ -59,8 +59,8 @@ export const ENGLISH_TRANSLATIONS = {
                     'foundations to accumulate wealth, locked up in their investment accounts instead of helping our ' +
                     'community charities.\n\n' +
                     'I am asking you to raise this issue with your Party leadership, the Prime Minister, the Minister of ' +
-                    'Finance, and your colleagues in parliament. At minimum, we need a five-year pilot program to ' +
-                    'increase the annual distribution quota given the current and residual impact of COVID-19.\n\n' +
+                    'Finance, and your colleagues in parliament. At minimum, we need a five-year trial period to increase the ' +
+                    'annual distribution quota given the current and residual impact of COVID-19, after which the program can be reviewed.\n\n' +
                     'Since there are taxpayer dollars represented in these foundations, by way of charity tax credits, I am ' +
                     'counting on you to ensure these dollars are being used fairly.\n\n' +
                     'For more information about the issue visit https://IncreaseTheGrants.ca\n\n' +
@@ -124,7 +124,31 @@ export const ENGLISH_TRANSLATIONS = {
                     'Please let me know where you stand and what actions you will take.\n\n' +
                     'Sincerely,\n{submitterName}\n{submitterPostal}'
             }
-        ]
+        ],
+        primeMinisterEmail: {
+            title: 'Please make sure that Foundations are doing their fair share!',
+            body: 'Dear Prime Minister Trudeau,\n\n' +
+                'As a Canadian and a taxpayer, I am asking you and your government to ' +
+                'help Canadian charities during this difficult time.\n\n' +
+                'Perhaps you have heard of the initiative to require charitable foundations to grant 10% of their assets ' +
+                'each year to better support our charities and those in need in our communities? I would like to add my ' +
+                'name and support to this initiative, and I am asking you and your government to make this change as a ' +
+                'part of the next budget.\n\n' +
+                'Foundations have accumulated over $80 Billion in their endowments, while charities struggle. We need to ' +
+                'require foundations to increase their granting each year to help those in need.\n\n' +
+                'Over the past ten years, Canadian foundations have more than doubled their assets, but their disbursements' +
+                ' have not kept pace! Canada used to require foundations to disburse a much higher amount to charities every ' +
+                'year, ensuring that tax-deductible donations actually reached those who need it most. However, changes to ' +
+                'allow less charitable contributions from foundations have allowed foundations to accumulate wealth, locked ' +
+                'up in their investment accounts instead of helping our community charities.\n\n' +
+                'At minimum, we need a five-year trial period to increase the annual distribution quota given the current ' +
+                'and residual impact of COVID-19, after which the program can be reviewed.\n\n' +
+                'Since there are taxpayer dollars represented in these foundations, by way of charity tax credits, I am ' +
+                'counting on you to ensure these dollars are being used fairly.\n\n' +
+                'For more information about the issue visit https://IncreaseTheGrants.ca\n\n' +
+                'Thank you for your time. I look forward to hearing back from you soon.\n\n' +
+                'Sincerely,\n{submitterName}\n{submitterPostal}',
+        },
     },
     social: {
         modalHeader: 'Engage Others',

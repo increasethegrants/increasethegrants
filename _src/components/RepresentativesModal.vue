@@ -260,17 +260,23 @@ export default {
           && this.selectedRep !== null
     },
     emailTitle: function () {
+      if (this.selectedRep === primeMinister) {
+        return this.$t('reps.primeMinisterEmail.title');
+      }
       return this.$t(`reps.emailTemplates.${this.selectedTemplate}.title`);
     },
     emailBody: function () {
-      return this.$t(
-          `reps.emailTemplates.${this.selectedTemplate}.body`,
-          {
-            ministerName: this.selectedRep ? this.selectedRep.name : 'member of parliament',
-            submitterName: this.submitterName,
-            submitterPostal: this.postal
-          }
-      )
+      if (this.selectedRep === primeMinister) {
+        return this.$t('reps.primeMinisterEmail.body', {
+          submitterName: this.submitterName,
+          submitterPostal: this.postal
+        });
+      }
+      return this.$t(`reps.emailTemplates.${this.selectedTemplate}.body`, {
+        ministerName: this.selectedRep ? this.selectedRep.name : 'member of parliament',
+        submitterName: this.submitterName,
+        submitterPostal: this.postal
+      });
     }
   }
 }
