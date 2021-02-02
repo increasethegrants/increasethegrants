@@ -1,4 +1,8 @@
 ## Les organismes de bienfaisance et les fondations existent en tant que prolongement du gouvernement
+
+> «Je crois que le quota de décaissement actuel de 3.5% est une mauvaise politique publique. Notre gouvernement accorde aux donateurs un allègement fiscal important pour la création d’une fondation et ensuite, demande seulement que 3.5 cennes de chaque dollar donné soit effectivement mis à profit chaque année pour le bienfait de la société. Ceci me semble une mauvaise affaire pour la société, surtout à un moment où les besoins sont si grands. [Le quota] a besoin d’être augmenté de façon significative.»
+>  
+>  <cite>Bill Young, Social Capital Partners</cite>
  
 Bien que nos gouvernements soient ultimement responsables du bien- être de la nation, certaines parties de cette responsabilité ont été déléguées à des fondations et à des organismes de bienfaisance qui fournissent des services sociaux au nom du gouvernement. Pour aider à assurer leur succès, les gouvernements offrent des crédits d'impôt aux donateurs afin d'encourager les dons caritatifs aux organismes. De plus, les politiques actuelles permettent que leurs investissements croissent à l’abri de l'impôt sur le revenu et sur les gains en capital.
 	

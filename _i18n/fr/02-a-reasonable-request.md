@@ -1,5 +1,9 @@
 ## Une demande très raisonnable
 
+> «Les besoins urgents des milliers de fondations caritatives et des gens qu’ils aident pourraient être satisfaits avec un simple changement de politique.»
+>  
+> <cite>Rudyard Griffiths, Senior Fellow, Munk School for Global Affairs and Public Policy</cite>
+
 <div class="paragraph--10pct">
 <img src="/assets/img/10pct.png" class="image--10pct">
 <p>Nous avons besoin d'une politique fédérale qui réduirait l’amassage compulsif d’argent dans les coffres des fondations en leur exigeant à faire des dons plus élevés aux organismes de bienfaisance en difficulté. Cela peut être accompli en augmentant le <strong>quota de distribution (QD)</strong>, soit le pourcentage minimum d'actifs que les fondations caritatives doivent verser aux organismes et autres programmes de bienfaisance chaque année afin de conserver leur statut d'organisme à but non lucratif (OBNL).</p>
@@ -26,7 +30,6 @@ Veuillez consulter les liens dans le tableau ci-dessus pour en savoir plus sur l
 
 Au nom de ceux qui en ont besoin, merci!
 
-> «La vérité, c'est que vous savez toujours ce qu'il faut
-  faire. Ce qui est difficile, c'est de le faire».
-> 
->— Général Norman Schwarzkopf
+> En ces temps difficiles, tous les secteurs de la société doivent ramer ensemble. Les fondations privées ont été généreuses, mais il est temps d’augmenter leur quota de décaissement annuel afin qu’elles puissent aider davantage dans la relance de la crise du COVID.
+>  
+> <cite>L’honorable Ratna Omidvar, Sénatrice indépandante de l’Ontario</cite>

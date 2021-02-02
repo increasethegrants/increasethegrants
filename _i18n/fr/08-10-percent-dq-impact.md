@@ -1,5 +1,9 @@
 ## Impact d'un quota de décaissement plus haut
 
+> «Des turbulences sans précédent causées par l'inégalité raciale et économique en plus d’une pandémie globale exige une réponse extraordinaire. Tout le monde a un rôle à jouer. Une étude du Charity Report a trouvé que, sur cinq ans, l’augmentation du quota de décaissement à 10% générerait 14.4 milliards additionnels pour les organismes de bienfaisance de la part des 245 premières fondations du Canada uniquement. Il est temps de changer la règlementation qui permet l’accumulation des richesses destinées à des fins caritatives. Faisons-le.»
+>  
+>  <cite>Gail Picco, Rédactrice en chef, The Charity Report</cite>
+
 Augmenter l'exigence de décaissement minimum au Canada à 8 à 10% offrirait un équilibre entre accomplir le bien collectif, plus tôt, et permettre aux fondations d'avoir suffisamment de longévité pour remplir leur rôle important.
 
 Un QD de 8 à 10% permettrait de&nbsp;:

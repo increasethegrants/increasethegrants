@@ -1,4 +1,9 @@
 ## About the Disbursement Quota
+
+> “ It’s been 13 years since Canada’s disbursement quota was lowered to 3.5% and a review is absolutely necessary. With COVID and the extreme funding pressures
+  faced by frontline charities, Canadian foundations and endowments should play a greater role in the Team Canada response.”
+>  
+> <cite>Kate Bahen, Managing Director, Charity Intelligence Canada</cite>
  
 The Disbursement Quota (DQ) is defined as the amount that foundations must disburse annually from their assets to either qualified registered Canadian charities, or to their own charitable programs. The rest is usually invested in financial markets to grow the endowment over time.
 

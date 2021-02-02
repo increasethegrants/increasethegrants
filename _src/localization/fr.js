@@ -114,7 +114,7 @@ export const FRENCH_TRANSLATIONS = {
         twitter: {
             share: 'Tweeter',
             text: 'Nous devons attendre plus des fondations!',
-            hashtag: 'donnerplus'
+            hashtag: 'DonnerPlus'
         },
         linkedin: {
             share: 'Partager'

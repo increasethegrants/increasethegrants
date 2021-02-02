@@ -1,4 +1,8 @@
 ## À propos du quota de décaissement
+
+> «Cela fait 13 ans que le quota de décaissement du Canada a été abaissé à 3.5% et une révision est absolument nécessaire. Avec le COVID et les pressions financières extrêmes auxquelles sont confrontées les organisations caritatives de première ligne, les fondations et dotations canadiennes devraient jouer un plus grand rôle dans la réponse d’Équipe Canada.»
+> 
+> <cite>Kate Bahen, Directrice Générale, Charity Intelligence Canada</cite> 
  
 Le quota de décaissement (QD) se définit comme le montant des actifs que les fondations doivent débourser annuellement soit à des organismes de bienfaisance canadiens enregistrés qualifiés, soit à leurs propres programmes caritatifs. Le reste est généralement investi sur les marchés financiers pour accroître la dotation au fil du temps.
 

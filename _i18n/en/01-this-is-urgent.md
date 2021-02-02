@@ -1,5 +1,9 @@
 # This is Urgent
 
+> “The pervasive and wide-ranging effects of the global pandemic have put Canadian communities in crisis. Our ability to recover will be driven by the generosity and kindness of Canadians as we restore public health and engage in an inclusive economy. I am happy to support this initiative to collectively do more as funders gain momentum.”
+>
+> <cite>Andrew Chunilall, CPA, CA., Chief Executive Officer, Community Foundations of Canada</cite>
+
 COVID-19 has exposed the growing “charity gap” between what is required to help those in need and the funding available to support them. Donations from individual Canadians are down, while demands on social services continue to rise. 
 
 Governments have already taken on significant deficits and accumulated debt throughout the COVID-19 crisis. Raising taxes is a sub-optimal approach to meet this additional need, as it would hurt the already struggling economy. 

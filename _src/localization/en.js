@@ -160,7 +160,7 @@ export const ENGLISH_TRANSLATIONS = {
         twitter: {
             share: 'Tweet',
             text: 'We need to expect more from charitable foundations!',
-            hashtag: 'increasethegrants'
+            hashtag: 'IncreaseTheGrants'
         },
         linkedin: {
             share: 'Share'

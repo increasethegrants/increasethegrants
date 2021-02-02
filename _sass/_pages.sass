@@ -200,7 +200,7 @@
     position: -webkit-sticky
     position: sticky
     top: calc(89px + 2rem)
-    padding: 1em 1em 2em
+    padding: 1em 1em 1em
   h2
     text-align: center
     margin-bottom: 0.75em
@@ -233,6 +233,23 @@
     &.focused
       color: $color-blue
       border-left: 2px solid $color-blue
+
+#social
+  margin: 0.75em 0 0
+  border-top: 1px solid $light-gray
+  padding: 0.5em 0 0
+  list-style: none
+  font-size: 1.5em
+  display: flex
+  justify-content: space-around
+  li
+    margin: 0
+  .social--facebook
+    color: $facebook-color
+  .social--twitter
+    color: $twitter-color
+  .social--linkedin
+    color: $linkedin-color
 
 .chartContainer
   height: 300px
@@ -365,7 +382,6 @@
     color: darken($twitter-color, 20%)
   .btn--linkedin .fab
     color: lighten($twitter-color, 20%)
-
 
 #main-footer
   background-color: $color-orange

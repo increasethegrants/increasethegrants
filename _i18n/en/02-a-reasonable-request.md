@@ -1,5 +1,9 @@
 ## A Very Reasonable Request
 
+> “The urgent needs facing thousands of charities and the people they help could be met with one simple policy change.”
+>  
+> <cite>Rudyard Griffiths, Senior Fellow, Munk School for Global Affairs and Public Policy</cite>
+
 <div class="paragraph--10pct">
 <img src="/assets/img/10pct.png" class="image--10pct">
 <p>We need a federal policy to reduce the hoarding of money in foundations by requiring greater granting to struggling charities. This can be done by increasing the <strong>distribution quota (DQ)</strong>, which is the minimum percentage of assets that charitable foundations must disburse to charities and other programs each year in order to retain their non-profit status.</p>
@@ -26,7 +30,11 @@ Please see the links in the panel above to learn more about how you can contribu
 
 On behalf of those in need, thank you!
 
-> “The truth of the matter is that one always knows the right thing to do. 
-The hard part is doing it.”
+> “In this hour of need, all sectors of society
+  must row together. Private foundations have
+  been generous, but it is time to raise their
+  annual disbursement quota so that they can
+  participate more fully in the recovery from the
+  COVID crisis.”
 > 
->— General Norman Schwarzkopf
+> <cite>The Honourable Ratna Omidvar, Independent Senator for Ontario</cite>

@@ -14,7 +14,8 @@
     </ol>
     <a :href="$t('donation.buttonUrl')"
        class="btn btn--block btn--blue"
-       target="_blank">
+       target="_blank"
+       rel="noopener">
       {{$t('donation.buttonText')}}
     </a>
   </vue-final-modal>
