@@ -1,8 +1,8 @@
 # C'est urgent
 
-> «Les effets généralisés et étendus de la pandémie globale ont mis les communautés canadiennes dans une situation critique. Notre capacité de s’en remettre dépendera de la générosité et de la gentillesse des Canadiens pendant que nous rétablissons la santé publique et que nous nous engageons dans une économie inclusive. Je suis heureux de soutenir cette initiative afin d’en faire plus collectivement pendant que les donateurs prennent de l’essor.»
+> «Les effets généralisés et étendus de la pandémie globale ont mis les communautés canadiennes dans une situation critique. Notre capacité de s’en remettre dépendera de la générosité et de la gentillesse des Canadiens pendant que nous rétablissons la santé publique et que nous nous engageons dans une économie inclusive. Je suis heureux de soutenir cette initiative pour faire plus collectivement alors que les bailleurs de fonds prennent de l'élan»
 >  
-> <cite>Andre Chunilall, CPA, CA., Directeur Général, Fondations communataires du Canada</cite>
+> <cite>Andrew Chunilall, CPA, CA., Directeur Général, Fondations communataires du Canada</cite>
   
 La COVID-19 a révélé «l’écart caritatif» croissant entre ce qui est nécessaire pour aider les personnes dans le besoin et le financement disponible pour les soutenir. Les dons des Canadiens sont en baisse tandis que les services sociaux sont de plus en plus en demande.
 

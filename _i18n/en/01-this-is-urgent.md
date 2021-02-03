@@ -1,6 +1,6 @@
 # This is Urgent
 
-> “The pervasive and wide-ranging effects of the global pandemic have put Canadian communities in crisis. Our ability to recover will be driven by the generosity and kindness of Canadians as we restore public health and engage in an inclusive economy. I am happy to support this initiative to collectively do more as funders gain momentum.”
+> “The pervasive and wide ranging effects of the global pandemic has put Canadian communities in crisis. Our ability to recover will be driven by the generosity and kindness of Canadians as we restore public health and engage in an inclusive economy. I am happy to support a well-informed sectoral conversation to increase the disbursement quota and advance community impact more holistically, recognizing the urgency of the moment.”
 >
 > <cite>Andrew Chunilall, CPA, CA., Chief Executive Officer, Community Foundations of Canada</cite>
 
