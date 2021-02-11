@@ -8,6 +8,6 @@ This gap is widening due to many reasons, including:
 * The growing economic challenges on the middle- and lower-income levels, increasing demands on social services,  
 * Declining charitable giving behaviour (on an inflation-adjusted, per capita basis).
 
-In a recent Ipsos Canada poll (April 23-26, 2020)<sup><a href="https://sector3insights.com/products/canadians-understanding-and-opinions-of-charitable-foundations/" target="_blank" rel="noopener">4</a></sup>;
+In a recent <a href="https://sector3insights.com/products/canadians-understanding-and-opinions-of-charitable-foundations/" target="_blank" rel="noopener">Ipsos Canada poll</a> (April 23-26, 2020):
 * 48% of Canadian adults were aware of this widening charity gap. 
 * When made aware of this fact, 71% of Canadians felt that this widening charity gap was not acceptable. 

@@ -1,5 +1,6 @@
 ## Press & Articles
 
+* [Opinion: Foundations have doubled their assets, but cut their spending. This has to change](https://financialpost.com/opinion/opinion-foundations-have-doubled-their-assets-but-cut-their-spending-this-has-to-change){:target="_blank" rel="noopener"}, by John Hallward, *Financial Post*
 * [Unlocking the expanding wealth of charitable foundations](https://policyoptions.irpp.org/magazines/may-2020/unlocking-the-expanding-wealth-of-charitable-foundations/){:target="_blank" rel="noopener"}, by John Hallward, *Policy Options Magazine*
 * [Thoughts on Philanthropy and Giving It All Away](https://hpearson.ca/thoughts-on-philanthropy-and-giving-it-all-away/){:target="_blank" rel="noopener"}, by Hillary Pearson, *hpearson.ca*
 * [The giving capacity of private foundations needs to be put on a war footing](https://www.theglobeandmail.com/business/commentary/article-the-giving-capacity-of-private-foundations-needs-to-be-put-on-a-war/){:target="_blank" rel="noopener"}, by Rudyard Griffiths, *The Globe and Mail*

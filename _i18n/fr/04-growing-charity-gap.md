@@ -8,6 +8,6 @@ Cet écart se creuse pour de nombreuses raisons, notamment&nbsp;:
 * L’augmentation des défis économiques pour les gens à revenu moyen ou faible qui engendrent une plus grande demande de services sociaux.
 * La diminution des intentions de dons de bienfaisance (mesuré par habitant et ajusté en fonction de l'inflation).
 
-Selon un récent sondage Ipsos Canada (23-26 avril 2020)<sup><a href="https://sector3insights.com/products/canadians-understanding-and-opinions-of-charitable-foundations/" target="_blank" rel="noopener">4</a></sup>;
+Selon <a href="https://sector3insights.com/products/canadians-understanding-and-opinions-of-charitable-foundations/" target="_blank" rel="noopener">un récent sondage Ipsos Canada</a> (23-26 avril 2020)&nbsp;:
 * 48% des adultes canadiens étaient conscients de cet écart caritatif grandissant.
 * Sachant cela, 71% des Canadiens ont estimé que cet écart caritatif grandissant n'était pas acceptable.

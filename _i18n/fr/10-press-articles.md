@@ -1,5 +1,6 @@
 ## Articles de presse
 
+* (article anglais) [Opinion: Foundations have doubled their assets, but cut their spending. This has to change](https://financialpost.com/opinion/opinion-foundations-have-doubled-their-assets-but-cut-their-spending-this-has-to-change){:target="_blank" rel="noopener"}, by John Hallward, *Financial Post*
 * (article anglais) [Unlocking the expanding wealth of charitable foundations](https://policyoptions.irpp.org/magazines/may-2020/unlocking-the-expanding-wealth-of-charitable-foundations/){:target="_blank" rel="noopener"}, par John Hallward, *Policy Options Magazine*
 * (article anglais) [Thoughts on Philanthropy and Giving It All Away](https://hpearson.ca/thoughts-on-philanthropy-and-giving-it-all-away/){:target="_blank" rel="noopener"}, par Hillary Pearson, *hpearson.ca*
 * (article anglais) [The giving capacity of private foundations needs to be put on a war footing](https://www.theglobeandmail.com/business/commentary/article-the-giving-capacity-of-private-foundations-needs-to-be-put-on-a-war/){:target="_blank" rel="noopener"}, par Rudyard Griffiths, *The Globe and Mail*

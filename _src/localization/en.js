@@ -60,7 +60,7 @@ export const ENGLISH_TRANSLATIONS = {
                     'community charities.\n\n' +
                     'I am asking you to raise this issue with your Party leadership, the Prime Minister, the Minister of ' +
                     'Finance, and your colleagues in parliament. At minimum, we need a five-year trial period to increase the ' +
-                    'annual distribution quota given the current and residual impact of COVID-19, after which the program can be reviewed.\n\n' +
+                    'annual disbursement quota given the current and residual impact of COVID-19, after which the program can be reviewed.\n\n' +
                     'Since there are taxpayer dollars represented in these foundations, by way of charity tax credits, I am ' +
                     'counting on you to ensure these dollars are being used fairly.\n\n' +
                     'For more information about the issue visit https://IncreaseTheGrants.ca\n\n' +

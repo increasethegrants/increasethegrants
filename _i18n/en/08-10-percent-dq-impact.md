@@ -1,8 +1,8 @@
 ## Impacts of a higher Disbursement Quota
 
-> “Unprecedented turbulence caused by racial and economic inequality on top of a global pandemic calls for an extraordinary response. Everyone has a part to play. A study by The Charity Report found that, over five years, an increase in the disbursement quota to 10% could generate an additional 14.4 billion for charities from Canada’s top 245 private foundations alone. It’s time to change the regulations that allow the accumulation of vast amounts of wealth meant for charitable purposes. Let’s get this done.”
+> “Unprecedented turbulence caused by racial and economic inequality on top of a global pandemic calls for an extraordinary response. Everyone has a part to play. A study by The Charity Report found that, over five years, an increase in the disbursement quota to 10% could generate an additional $14.4 billion for charities from Canada’s top 245 private foundations alone. It’s time to change the regulations that allow the accumulation of vast amounts of wealth meant for charitable purposes. Let’s get this done.”
 >  
-> <cite>Gail Picco, Editor in chief, The Charity Report.</cite>
+> <cite>Gail Picco, Editor in Chief, The Charity Report.</cite>
 
 Raising the minimum disbursement requirement in Canada to 7-10% would offer a balance between accomplishing greater good, sooner, and allowing foundations to have enough longevity to serve their important role. An 7-10% DQ would:
 
