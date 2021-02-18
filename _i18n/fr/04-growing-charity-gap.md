@@ -1,5 +1,9 @@
 ## L’écart caritatif croissant
- 
+
+> «Il est difficile de rester sans rien faire et d&#39;observer les énormes lacunes dans le soutien aux personnes coincées dans la pauvreté, aux nouveaux arrivants au Canada - dont beaucoup sont des personnes racialisées. Tant de richesse est retenue par les fondations, mais nos lois les empêchent d&#39;en accorder davantage pour fournir de meilleurs services sociaux, comme elles ont été conçues pour le faire.»
+>
+> <cite>L’Honorable Marilou McPhedran, Sénatrice indépendante—Manitoba</cite>
+
 Depuis plusieurs années, le Canada fait face à un «écart caritatif» croissant. Il s'agit d'un écart financier entre le financement disponible et les coûts croissants des services qui maintiennent la civilité et l'équité dans nos communautés. Ces services soutiennent les personnes âgées, les sans-abri, les victimes d'abus, le bien-être des animaux, la santé environnementale, la recherche médicale et de nombreux autres enjeux critiques.
 
 Cet écart se creuse pour de nombreuses raisons, notamment&nbsp;:

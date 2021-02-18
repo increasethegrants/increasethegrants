@@ -1,4 +1,8 @@
 ## The Growing Charity Gap
+
+> “It is hard to stand by and observe the massive gaps in support for people locked in poverty, for newcomers to Canada - many of whom are racialized people. So much wealth is held by foundations, but they’re stopped by our laws from granting more to provide greater social services as they were designed to do.”
+>
+> <cite>Hon. Marilou McPhedran, Independent Senator – Manitoba</cite>
  
 For several years, Canada has been facing a growing ‘charity gap’. This is a financial gap between available funding and the growing costs of services that maintain civility and equity in our communities. These services support the elderly, the homeless, abuse victims, animal welfare, environmental health, medical research, and numerous other critical issues.
 

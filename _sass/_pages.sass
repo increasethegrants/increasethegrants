@@ -171,6 +171,23 @@
       &:first-child
         margin: 0
 
+#latest-news
+  padding: 0.5em 2em
+  margin: 1em 0em 0em
+  background-color: $lighter-gray
+  text-align: center
+  display: block
+  text-decoration: none
+  color: $color-light-orange
+  em
+    -webkit-transition: none
+    transition: none
+  &:hover
+    background-color: darken($lighter-gray, 5%)
+    color: $color-orange
+  strong
+    color: $text-color
+
 #btn-toc
   padding: 0.75em 1.5em
   @include breakpoint($medium-wide)
