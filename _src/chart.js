@@ -1,8 +1,8 @@
 import Chart from "./libs/chart.min.js";
 export default function () {
     const dataSets = [
-        [34.1, 36.5, 36.2, 42.1, 45.4, 55.1, 61.4, 69.7, 73.0, 84.4],
-        [3.6, 3.5, 3.7, 4.3, 4.4, 4.8, 5.9, 5.6, 5.7, 6.7],
+        [34.1, 36.5, 36.2, 42.1, 45.4, 55.1, 61.4, 69.7, 73.0, 84.4, 91.9],
+        [3.6, 3.5, 3.7, 4.3, 4.4, 4.8, 5.9, 5.6, 5.7, 6.7, 6.9],
         [
             Math.round(3.6 / 34.1 * 100 * 100) / 100,
             Math.round(3.5 / 36.5 * 100 * 100) / 100,
@@ -13,14 +13,15 @@ export default function () {
             Math.round(5.9 / 61.4 * 100 * 100) / 100,
             Math.round(5.6 / 69.7 * 100 * 100) / 100,
             Math.round(5.7 / 73.0 * 100 * 100) / 100,
-            Math.round(6.7 / 84.4 * 100 * 100) / 100
+            Math.round(6.7 / 84.4 * 100 * 100) / 100,
+            Math.round(6.9 / 91.9 * 100 * 100) / 100,
         ]
     ];
     let assetsChartCtx = document.getElementById('assets-chart');
     let assetsChart = new Chart(assetsChartCtx, {
         type: 'line',
         data: {
-            labels: ["2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017"],
+            labels: ["2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018"],
             datasets: [
                 {
                     label: window.i18n.t("chart.axis.assets"),
