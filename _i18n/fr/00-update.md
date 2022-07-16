@@ -22,3 +22,7 @@ C&#39;est un excellent pas en avant: Mettre à jour une vieille politique (qui p
 - Un Bien Différé = Moins Bien. Cela permet aux souffrances actuelles de s&#39;aggraver: cela signifie plus de décès par cancer inutiles, un changement climatique irréversible, la perte d&#39;espèces animales, etc. Tout cela ne peut pas être récupéré en retenant les actifs de la fondation pour un déploiement dans plus de 25 ans. On pourrait soutenir que de permettre que ces fonds restent dans les comptes d&#39;investissement des fondations pendant des décennies n&#39;est tout simplement pas caritatif.
 
 ***À cette fin, un CV plus ambitieux de 10 % permettrait au capital donné aujourd&#39;hui de durer 20 à 25 ans - une durée de vie que nous estimons juste pour les contribuables, tout en accordant aux fondations un délai raisonnable pour appliquer et répartir leur argent de manière judicieuse et stratégique.***
+
+### Mise à jour de juillet 2022
+
+Explorez [les données d'un récent sondage](https://sector3insights.com/products/canadians-opinions-about-how-quickly-donation-dollars-should-be-used/) montrant que les Canadiens veulent que les dollars de bienfaisance soient utilisés rapidement et non accumulés dans des dotations à perpétuité

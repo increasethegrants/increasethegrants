@@ -22,3 +22,7 @@ This is an excellent step forward: Updating a terrible old policy (which allowed
 - Delayed Good = Less Good. It allows current suffering to compound, it means more unnecessary cancer deaths, irreversible climate change, loss of animal species, etc. All of which cannot be recovered by holding back foundation assets for deployment 25+ years from now. One could argue that allowing funds to sit for decades in foundation investment accounts is simply not charitable.
 
 ***To that end, a more ambitious 10% DQ would allow today’s donated capital to last for 20-25 years - a lifespan we feel is fair for taxpayers, while allowing foundations a reasonable timeline to apply and disperse their money wisely and strategically.***
+
+### July 2022 Update
+
+Explore the [recent poll data](https://sector3insights.com/products/canadians-opinions-about-how-quickly-donation-dollars-should-be-used/) showing that Canadians want charitable dollars used quickly and not accumulated in endowments in perpetuity
