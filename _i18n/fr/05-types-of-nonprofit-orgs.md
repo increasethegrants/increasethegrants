@@ -13,7 +13,7 @@ Le secteur des OBNL au Canada est vaste : il emploie des millions de gens et en 
 
     * (1b)  Fondations
 
-        Les fondations ont tendance à amasser et à retenir des fonds dans leurs comptes de placement et à ne distribuer qu’un petit pourcentage de leurs actifs chaque année pour aider les organismes de bienfaisance enregistrés ou pour lancer leurs propres programmes caritatifs. Les fondations peuvent être classées comme «publiques» ou «privées», selon la relation entre les membres de leur conseil d'administration et leurs sources de financement.<br>Des fondations notables sont la Fondation MasterCard, la Fondation Chagnon, la Fondation Azrieli et la Fondation David Suzuki.
+        Les fondations ont tendance à amasser et à retenir des fonds dans leurs comptes de placement et à ne distribuer qu’un petit pourcentage de leurs actifs chaque année pour aider les organismes de bienfaisance enregistrés ou pour lancer leurs propres programmes caritatifs. Les fondations peuvent être classées comme «publiques» ou «privées», selon la relation entre les membres de leur conseil d'administration et leurs sources de financement.<br>Des fondations notables sont la la Fondation Chagnon, la Fondation Azrieli et la Fondation David Suzuki.
         
         <em>**Cette catégorie de fondations repose collectivement sur une somme croissante de plus de 80 milliards de dollars.**</em> 
 

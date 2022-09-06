@@ -15,7 +15,7 @@ The non-profit sector in Canada is large; it employs millions, and serves millio
     * (1b)  Foundations
 
         Foundations tend to collect and hold funds in their investment accounts and distribute a small percentage of their assets each year to help registered charities or engage their own charitable programs. Foundations may be classified as either “public” or “private”, depending on the relationship of their board members and their sources of funding.<br>
-        Notable foundations include The MasterCard Foundation, The Chagnon Foundation, The Azrieli Foundation, and The David Suzuki Foundation.
+        Notable foundations include The Chagnon Foundation, The Azrieli Foundation, and The David Suzuki Foundation.
         
         <em>**Foundations are collectively sitting on $80+ Billion, and growing.**</em> 
 

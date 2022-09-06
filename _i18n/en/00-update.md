@@ -12,7 +12,7 @@ These measures would apply to charities in respect of fiscal years beginning on 
 
 On behalf of the tens of thousands of charities struggling to meet the increasing demands on their charitable services, the millions of Canadians in need, and the tens of millions of taxpayers who wish to see their taxes used in a timely manner, this increase is most welcome.
 
-A 5% DQ should trigger an additional $500 Million (est.) for registered charities annually (with $0 cost to the public purse — as this money is already sitting in foundation investment accounts). The assumption remains that the very large MasterCard Foundation will be exempt, as appears to have been the case in recent years (for unexplained reasons).
+A 5% DQ should trigger over $500 Million (est.) for registered charities annually (with $0 cost to the public purse — as this money is already sitting in foundation investment accounts).
 
 This is an excellent step forward: Updating a terrible old policy (which allowed Foundations to accumulate $100+ Billion in their investment accounts) - while charities struggled and Canadians suffered.
 

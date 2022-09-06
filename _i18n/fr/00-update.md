@@ -12,7 +12,7 @@ Ces mesures s&#39;appliqueront aux OBNLs à l&#39;égard de leurs années fiscal
 
 Au nom des dizaines de milliers d’OBNLs qui luttent pour répondre aux demandes croissantes de leurs services de bienfaisance, des millions de Canadiens dans le besoin et des dizaines de millions de contribuables qui souhaitent voir leurs impôts utilisés en temps opportun, cette augmentation est des plus bienvenue.
 
-Un CV de 5 % devrait déclencher un montant supplémentaire de 500 millions $ (est) par an pour les OBNLs enregistrés (avec un coût de 0 $ pour les deniers publics - car cet argent se trouve déjà dans les comptes d&#39;investissement des fondations). L&#39;hypothèse demeure que la très grande Fondation MasterCard sera exonérée, comme cela semble avoir été le cas ces dernières années (pour des raisons inexpliquées).
+Un CV de 5 % devrait déclencher un montant de au moins 500 millions $ (est) par an pour les OBNLs enregistrés (avec un coût de 0 $ pour les deniers publics - car cet argent se trouve déjà dans les comptes d&#39;investissement des fondations).
 
 C&#39;est un excellent pas en avant: Mettre à jour une vieille politique (qui permettait aux fondations d&#39;accumuler plus de 100 milliards $ dans leurs comptes d&#39;investissement) tandis que les OBNLs luttaient et que les Canadiens souffraient.
 
